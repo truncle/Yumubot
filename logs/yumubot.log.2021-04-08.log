@@ -1,0 +1,12 @@
+2021-04-08 20:42:24.319 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - Starting YumubotApplicationTests using Java 11.0.7 on LAPTOP-BHA1JOHL with PID 4636 (started by Truncle in D:\Codes\Java\Yumubot)
+2021-04-08 20:42:24.329 [main] DEBUG cn.truncle.yumubot.YumubotApplicationTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-08 20:42:24.329 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - No active profile set, falling back to default profiles: default
+2021-04-08 20:42:26.290 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - Started YumubotApplicationTests in 2.44 seconds (JVM running for 4.739)
+2021-04-08 20:44:34.976 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - Starting YumubotApplicationTests using Java 11.0.7 on LAPTOP-BHA1JOHL with PID 16392 (started by Truncle in D:\Codes\Java\Yumubot)
+2021-04-08 20:44:34.987 [main] DEBUG cn.truncle.yumubot.YumubotApplicationTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-08 20:44:34.987 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - No active profile set, falling back to default profiles: default
+2021-04-08 20:44:36.505 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - Started YumubotApplicationTests in 1.813 seconds (JVM running for 3.504)
+2021-04-08 20:49:55.138 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - Starting YumubotApplicationTests using Java 11.0.7 on LAPTOP-BHA1JOHL with PID 13756 (started by Truncle in D:\Codes\Java\Yumubot)
+2021-04-08 20:49:55.138 [main] DEBUG cn.truncle.yumubot.YumubotApplicationTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-08 20:49:55.146 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - No active profile set, falling back to default profiles: default
+2021-04-08 20:49:56.537 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - Started YumubotApplicationTests in 1.866 seconds (JVM running for 3.52)
