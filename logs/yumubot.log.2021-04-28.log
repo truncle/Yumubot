@@ -1,0 +1,75 @@
+2021-04-28 15:07:56.413 [main] INFO  cn.truncle.yumubot.CQServiceTests - Starting CQServiceTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 10652 (started by Administrator in A:\java\Yumubot)
+2021-04-28 15:07:56.415 [main] DEBUG cn.truncle.yumubot.CQServiceTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-28 15:07:56.416 [main] INFO  cn.truncle.yumubot.CQServiceTests - No active profile set, falling back to default profiles: default
+2021-04-28 15:07:57.533 [main] INFO  cn.truncle.yumubot.CQServiceTests - Started CQServiceTests in 1.367 seconds (JVM running for 2.313)
+2021-04-28 16:05:48.164 [main] INFO  cn.truncle.yumubot.CQServiceTests - Starting CQServiceTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 2212 (started by Administrator in A:\java\Yumubot)
+2021-04-28 16:05:48.166 [main] DEBUG cn.truncle.yumubot.CQServiceTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-28 16:05:48.168 [main] INFO  cn.truncle.yumubot.CQServiceTests - No active profile set, falling back to default profiles: default
+2021-04-28 16:05:49.292 [main] INFO  cn.truncle.yumubot.CQServiceTests - Started CQServiceTests in 1.367 seconds (JVM running for 2.423)
+2021-04-28 16:11:20.460 [main] INFO  cn.truncle.yumubot.CQServiceTests - Starting CQServiceTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 10416 (started by Administrator in A:\java\Yumubot)
+2021-04-28 16:11:20.461 [main] DEBUG cn.truncle.yumubot.CQServiceTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-28 16:11:20.463 [main] INFO  cn.truncle.yumubot.CQServiceTests - No active profile set, falling back to default profiles: default
+2021-04-28 16:11:21.589 [main] INFO  cn.truncle.yumubot.CQServiceTests - Started CQServiceTests in 1.368 seconds (JVM running for 2.258)
+2021-04-28 16:12:30.593 [main] INFO  cn.truncle.yumubot.CQServiceTests - Starting CQServiceTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 8964 (started by Administrator in A:\java\Yumubot)
+2021-04-28 16:12:30.595 [main] DEBUG cn.truncle.yumubot.CQServiceTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-28 16:12:30.597 [main] INFO  cn.truncle.yumubot.CQServiceTests - No active profile set, falling back to default profiles: default
+2021-04-28 16:12:31.773 [main] INFO  cn.truncle.yumubot.CQServiceTests - Started CQServiceTests in 1.409 seconds (JVM running for 2.293)
+2021-04-28 16:14:00.678 [main] INFO  cn.truncle.yumubot.CQServiceTests - Starting CQServiceTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 8892 (started by Administrator in A:\java\Yumubot)
+2021-04-28 16:14:00.680 [main] DEBUG cn.truncle.yumubot.CQServiceTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-28 16:14:00.681 [main] INFO  cn.truncle.yumubot.CQServiceTests - No active profile set, falling back to default profiles: default
+2021-04-28 16:14:01.820 [main] INFO  cn.truncle.yumubot.CQServiceTests - Started CQServiceTests in 1.377 seconds (JVM running for 2.379)
+2021-04-28 16:14:31.207 [main] INFO  cn.truncle.yumubot.CQServiceTests - Starting CQServiceTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 6400 (started by Administrator in A:\java\Yumubot)
+2021-04-28 16:14:31.209 [main] DEBUG cn.truncle.yumubot.CQServiceTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-28 16:14:31.210 [main] INFO  cn.truncle.yumubot.CQServiceTests - No active profile set, falling back to default profiles: default
+2021-04-28 16:17:19.170 [main] INFO  cn.truncle.yumubot.CQServiceTests - Starting CQServiceTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 8932 (started by Administrator in A:\java\Yumubot)
+2021-04-28 16:17:19.172 [main] DEBUG cn.truncle.yumubot.CQServiceTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-28 16:17:19.173 [main] INFO  cn.truncle.yumubot.CQServiceTests - No active profile set, falling back to default profiles: default
+2021-04-28 16:17:20.323 [main] INFO  cn.truncle.yumubot.CQServiceTests - Started CQServiceTests in 1.391 seconds (JVM running for 2.281)
+2021-04-28 16:22:01.505 [main] INFO  cn.truncle.yumubot.CQServiceTests - Starting CQServiceTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 11124 (started by Administrator in A:\java\Yumubot)
+2021-04-28 16:22:01.507 [main] DEBUG cn.truncle.yumubot.CQServiceTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-28 16:22:01.508 [main] INFO  cn.truncle.yumubot.CQServiceTests - No active profile set, falling back to default profiles: default
+2021-04-28 16:22:02.598 [main] INFO  cn.truncle.yumubot.CQServiceTests - Started CQServiceTests in 1.317 seconds (JVM running for 2.192)
+2021-04-28 16:24:56.156 [main] INFO  cn.truncle.yumubot.CQServiceTests - Starting CQServiceTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 10448 (started by Administrator in A:\java\Yumubot)
+2021-04-28 16:24:56.158 [main] DEBUG cn.truncle.yumubot.CQServiceTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-28 16:24:56.159 [main] INFO  cn.truncle.yumubot.CQServiceTests - No active profile set, falling back to default profiles: default
+2021-04-28 16:24:57.257 [main] INFO  cn.truncle.yumubot.CQServiceTests - Started CQServiceTests in 1.332 seconds (JVM running for 2.202)
+2021-04-28 16:25:38.555 [main] INFO  cn.truncle.yumubot.CQServiceTests - Starting CQServiceTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 6448 (started by Administrator in A:\java\Yumubot)
+2021-04-28 16:25:38.557 [main] DEBUG cn.truncle.yumubot.CQServiceTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-28 16:25:38.558 [main] INFO  cn.truncle.yumubot.CQServiceTests - No active profile set, falling back to default profiles: default
+2021-04-28 16:25:39.683 [main] INFO  cn.truncle.yumubot.CQServiceTests - Started CQServiceTests in 1.37 seconds (JVM running for 2.276)
+2021-04-28 16:25:40.230 [main] ERROR cn.truncle.yumubot.service.CQService - {"msg":"SEND_MSG_API_ERROR","wording":"请参考输出","retcode":100,"status":"failed"}
+2021-04-28 16:26:46.987 [main] INFO  cn.truncle.yumubot.CQServiceTests - Starting CQServiceTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 9224 (started by Administrator in A:\java\Yumubot)
+2021-04-28 16:26:46.989 [main] DEBUG cn.truncle.yumubot.CQServiceTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-28 16:26:46.991 [main] INFO  cn.truncle.yumubot.CQServiceTests - No active profile set, falling back to default profiles: default
+2021-04-28 16:26:48.093 [main] INFO  cn.truncle.yumubot.CQServiceTests - Started CQServiceTests in 1.331 seconds (JVM running for 2.198)
+2021-04-28 16:27:22.495 [main] INFO  cn.truncle.yumubot.CQServiceTests - Starting CQServiceTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 10560 (started by Administrator in A:\java\Yumubot)
+2021-04-28 16:27:22.497 [main] DEBUG cn.truncle.yumubot.CQServiceTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-28 16:27:22.498 [main] INFO  cn.truncle.yumubot.CQServiceTests - No active profile set, falling back to default profiles: default
+2021-04-28 16:27:23.589 [main] INFO  cn.truncle.yumubot.CQServiceTests - Started CQServiceTests in 1.322 seconds (JVM running for 2.189)
+2021-04-28 16:27:24.152 [main] ERROR cn.truncle.yumubot.service.CQService - {"msg":"SEND_MSG_API_ERROR","wording":"请参考输出","retcode":100,"status":"failed"}
+2021-04-28 16:30:05.988 [main] INFO  cn.truncle.yumubot.CQServiceTests - Starting CQServiceTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 6500 (started by Administrator in A:\java\Yumubot)
+2021-04-28 16:30:05.990 [main] DEBUG cn.truncle.yumubot.CQServiceTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-28 16:30:05.992 [main] INFO  cn.truncle.yumubot.CQServiceTests - No active profile set, falling back to default profiles: default
+2021-04-28 16:30:07.133 [main] INFO  cn.truncle.yumubot.CQServiceTests - Started CQServiceTests in 1.379 seconds (JVM running for 2.294)
+2021-04-28 16:30:07.681 [main] ERROR cn.truncle.yumubot.service.CQService - {"msg":"SEND_MSG_API_ERROR","wording":"请参考输出","retcode":100,"status":"failed"}
+2021-04-28 16:34:35.600 [main] INFO  cn.truncle.yumubot.CQServiceTests - Starting CQServiceTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 2292 (started by Administrator in A:\java\Yumubot)
+2021-04-28 16:34:35.602 [main] DEBUG cn.truncle.yumubot.CQServiceTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-28 16:34:35.603 [main] INFO  cn.truncle.yumubot.CQServiceTests - No active profile set, falling back to default profiles: default
+2021-04-28 16:34:36.696 [main] INFO  cn.truncle.yumubot.CQServiceTests - Started CQServiceTests in 1.327 seconds (JVM running for 2.187)
+2021-04-28 16:34:37.267 [main] ERROR cn.truncle.yumubot.service.CQService - {"msg":"SEND_MSG_API_ERROR","wording":"请参考输出","retcode":100,"status":"failed"}
+2021-04-28 16:35:15.918 [main] INFO  cn.truncle.yumubot.CQServiceTests - Starting CQServiceTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 5960 (started by Administrator in A:\java\Yumubot)
+2021-04-28 16:35:15.919 [main] DEBUG cn.truncle.yumubot.CQServiceTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-28 16:35:15.921 [main] INFO  cn.truncle.yumubot.CQServiceTests - No active profile set, falling back to default profiles: default
+2021-04-28 16:35:17.015 [main] INFO  cn.truncle.yumubot.CQServiceTests - Started CQServiceTests in 1.33 seconds (JVM running for 2.256)
+2021-04-28 16:36:56.876 [main] INFO  cn.truncle.yumubot.CQServiceTests - Starting CQServiceTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 2152 (started by Administrator in A:\java\Yumubot)
+2021-04-28 16:36:56.878 [main] DEBUG cn.truncle.yumubot.CQServiceTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-28 16:36:56.879 [main] INFO  cn.truncle.yumubot.CQServiceTests - No active profile set, falling back to default profiles: default
+2021-04-28 16:36:58.012 [main] INFO  cn.truncle.yumubot.CQServiceTests - Started CQServiceTests in 1.372 seconds (JVM running for 2.28)
+2021-04-28 16:37:25.099 [main] INFO  cn.truncle.yumubot.CQServiceTests - Starting CQServiceTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 5992 (started by Administrator in A:\java\Yumubot)
+2021-04-28 16:37:25.101 [main] DEBUG cn.truncle.yumubot.CQServiceTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-28 16:37:25.103 [main] INFO  cn.truncle.yumubot.CQServiceTests - No active profile set, falling back to default profiles: default
+2021-04-28 16:37:26.252 [main] INFO  cn.truncle.yumubot.CQServiceTests - Started CQServiceTests in 1.4 seconds (JVM running for 2.3)
+2021-04-28 16:49:55.295 [main] INFO  cn.truncle.yumubot.CQServiceTests - Starting CQServiceTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 8328 (started by Administrator in A:\java\Yumubot)
+2021-04-28 16:49:55.298 [main] DEBUG cn.truncle.yumubot.CQServiceTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-04-28 16:49:55.299 [main] INFO  cn.truncle.yumubot.CQServiceTests - No active profile set, falling back to default profiles: default
+2021-04-28 16:49:56.500 [main] INFO  cn.truncle.yumubot.CQServiceTests - Started CQServiceTests in 1.449 seconds (JVM running for 2.392)

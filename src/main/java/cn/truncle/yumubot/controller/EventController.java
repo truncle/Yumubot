@@ -3,6 +3,7 @@ package cn.truncle.yumubot.controller;
 import cn.truncle.yumubot.service.MessageService;
 import cn.truncle.yumubot.service.NoticeService;
 import cn.truncle.yumubot.service.RequestService;
+import com.alibaba.fastjson.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -31,8 +32,8 @@ public class EventController {
      * 把事件分发到对应的服务进行处理
      */
     @PostMapping("/event")
-    public Object responseEvent(@RequestBody Map event){
-        switch((String)event.get("post_type")){
+    public Object responseEvent(@RequestBody JSONObject event){
+        switch(event.getString("post_type")){
             case "message":
                 messageService.handleMessage(event); break;
             case "notice":noticeService.handleEvent(event); break;

@@ -1,6 +1,7 @@
 package cn.truncle.yumubot.service;
 
 import cn.truncle.yumubot.util.Instruction;
+import com.alibaba.fastjson.JSONObject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -26,10 +27,11 @@ public class MessageService {
     /**
      * 分别处理群聊消息和私聊消息
      */
-    public void handleMessage(Map message){
-        Integer userId = (Integer) message.get("user_id");
-        String content = (String) message.get("raw_message");
-        String type = (String)message.get("message_type");
+    public void handleMessage(JSONObject message){
+        System.out.println(message.toJSONString());/*
+        String userId =  message.getString("user_id");
+        String content = message.getString("raw_message");
+        String type = message.getString("message_type");
         logger.debug("getMessage: userId = "+userId+", message = "+content);
         try{
             if(!content.startsWith("!ym")) {
@@ -46,12 +48,12 @@ public class MessageService {
                 onPrivateMsg(userId, content,
                         (String) message.get("sub_type"));
                 break;
-            case "group":onGroupMsg(userId, (Integer) message.get("group_id"),
+            case "group":onGroupMsg(userId, message.getString("group_id"),
                     content, (String) message.get("sub_type"));
             break;
             default:
                 logger.debug("不认识的消息");
-        }
+        }*/
     }
 
     /**
@@ -60,7 +62,7 @@ public class MessageService {
      * @param content 消息内容
      * @param subType 消息子类型, 如果是好友则是 friend, 如果是群临时会话则是 group, 如果是在群中自身发送则是 group_self, 其他为 other
      */
-    public void onPrivateMsg(Integer userId, String content, String subType){
+    public void onPrivateMsg(String userId, String content, String subType){
         String response = null;
         try{
             String[] params = content.split("\\s+");
@@ -97,7 +99,7 @@ public class MessageService {
      * @param content 消息内容
      * @param subType 消息子类型, 正常消息是 normal, 匿名消息是 anonymous, 系统提示 ( 如「管理员已禁止群内匿名聊天」 ) 是 notice
      */
-    public void onGroupMsg(Integer userId, Integer groupId, String content, String subType){
+    public void onGroupMsg(String userId, String groupId, String content, String subType){
         String response = null;
         try{
             String[] params = content.split("\\s+");
