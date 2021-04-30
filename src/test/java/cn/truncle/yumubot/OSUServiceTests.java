@@ -1,6 +1,5 @@
 package cn.truncle.yumubot;
 
-import cn.truncle.yumubot.service.MessageService;
 import cn.truncle.yumubot.service.OSUService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

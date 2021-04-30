@@ -1,6 +1,8 @@
 package cn.truncle.yumubot.service;
 
 import cn.truncle.yumubot.util.Instruction;
+
+import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -120,25 +122,25 @@ public class MessageService {
             cqService.sendPrivateMsg(userId, response.substring(0,500));
         }
         catch (Exception e){
-            if(e.getCause() instanceof ConnectException)
-                response = "ppy服务器又连不上了";
+            // if(e.getCause() instanceof ConnectException)
+            //     response = "ppy服务器又连不上了";
             logger.debug(e.getLocalizedMessage());
         }
         cqService.sendGroupMsg(groupId, response);
     }
 
     public Object getUserInfo(String osuId){
-        Map user = osuService.getUser(osuId);
+        JSONObject user = osuService.getUser(osuId);
         return user;
     }
 
     public Object getMapInfo(String mapId){
-        Map map = osuService.getBeatMap(mapId);
+        JSONObject map = osuService.getBeatMap(mapId);
         return map;
     }
 
     public Object getUserMapScore(String mapId, String osuId){
-        Map score = (Map) osuService.getUserBeatmapScore(mapId, osuId).get("score");
+        JSONObject score = osuService.getUserBeatmapScore(mapId, osuId);
         return score;
     }
 }
