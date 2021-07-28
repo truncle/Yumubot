@@ -1,0 +1,4 @@
+2021-07-20 00:11:44.574 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 12920 (started by Administrator in A:\java\Yumubot)
+2021-07-20 00:11:44.577 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-20 00:11:44.578 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-20 00:11:45.914 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.63 seconds (JVM running for 2.595)

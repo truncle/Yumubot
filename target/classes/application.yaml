@@ -1,0 +1,8 @@
+yumubot:
+  osu-peppy:
+    baseurl: https://osu.ppy.sh/api/v2/
+  go-cqhttp:
+    #配置go-cqhttp地址
+    address: 127.0.0.1:5700
+    filePath: C:/
+

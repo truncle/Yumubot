@@ -1,0 +1,934 @@
+2021-07-17 10:03:56.580 [main] INFO  cn.truncle.yumubot.CQServiceTests - Starting CQServiceTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 9848 (started by Administrator in A:\java\Yumubot)
+2021-07-17 10:03:56.582 [main] DEBUG cn.truncle.yumubot.CQServiceTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 10:03:56.584 [main] INFO  cn.truncle.yumubot.CQServiceTests - No active profile set, falling back to default profiles: default
+2021-07-17 10:03:57.939 [main] INFO  cn.truncle.yumubot.CQServiceTests - Started CQServiceTests in 1.689 seconds (JVM running for 2.837)
+2021-07-17 11:23:20.862 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 6616 (started by Administrator in A:\java\Yumubot)
+2021-07-17 11:23:20.865 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 11:23:20.867 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 11:23:22.166 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.585 seconds (JVM running for 2.818)
+2021-07-17 11:23:22.711 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - {"游玩相关":["PP","ACC","评级"]}{"谱面相关":["谱面","AR"]}
+2021-07-17 11:23:22.711 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 暂时找不到该词条
+2021-07-17 11:24:39.501 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 1132 (started by Administrator in A:\java\Yumubot)
+2021-07-17 11:24:39.503 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 11:24:39.505 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 11:24:40.704 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.515 seconds (JVM running for 2.432)
+2021-07-17 11:24:41.099 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - {"游玩相关":["PP","ACC","评级"]}{"谱面相关":["谱面","AR"]}
+2021-07-17 11:24:41.099 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - ACC (Accuracy)，称为准确率。
+2021-07-17 11:42:36.052 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 4976 (started by Administrator in A:\java\Yumubot)
+2021-07-17 11:42:36.054 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 11:42:36.056 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 11:42:37.210 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.434 seconds (JVM running for 2.346)
+2021-07-17 11:42:37.588 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 游玩相关java.util.HashMap$KeyIterator@590d6c76java.util.HashMap$KeyIterator@25791d40java.util.HashMap$KeyIterator@448c92fc谱面相关java.util.HashMap$KeyIterator@251c8145java.util.HashMap$KeyIterator@17c0274cjava.util.HashMap$KeyIterator@7abeabe9
+2021-07-17 11:42:37.588 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - ACC (Accuracy)，称为准确率。
+2021-07-17 11:42:58.599 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 9104 (started by Administrator in A:\java\Yumubot)
+2021-07-17 11:42:58.602 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 11:42:58.604 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 11:42:59.801 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.482 seconds (JVM running for 2.402)
+2021-07-17 11:43:00.193 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 游玩相关游玩相关游玩相关谱面相关谱面相关谱面相关
+2021-07-17 11:43:00.193 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - ACC (Accuracy)，称为准确率。
+2021-07-17 11:44:04.944 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 6632 (started by Administrator in A:\java\Yumubot)
+2021-07-17 11:44:04.946 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 11:44:04.947 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 11:44:06.112 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.433 seconds (JVM running for 2.319)
+2021-07-17 11:44:06.513 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 游玩相关-PP-ACC-评级谱面相关-谱面-AR
+2021-07-17 11:44:06.513 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - ACC (Accuracy)，称为准确率。
+2021-07-17 11:45:00.122 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 2460 (started by Administrator in A:\java\Yumubot)
+2021-07-17 11:45:00.125 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 11:45:00.127 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 11:45:01.317 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.478 seconds (JVM running for 2.419)
+2021-07-17 11:45:01.745 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 游玩相关
+-PP
+-ACC
+-评级谱面相关
+-谱面
+-AR
+2021-07-17 11:45:01.745 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - ACC (Accuracy)，称为准确率。
+2021-07-17 11:45:37.842 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 12896 (started by Administrator in A:\java\Yumubot)
+2021-07-17 11:45:37.844 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 11:45:37.846 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 11:45:39.056 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.502 seconds (JVM running for 2.412)
+2021-07-17 11:45:39.436 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 游玩相关
+-PP
+-ACC
+-评级
+谱面相关
+-谱面
+-AR
+
+2021-07-17 11:45:39.437 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - ACC (Accuracy)，称为准确率。
+2021-07-17 11:56:41.348 [main] INFO  cn.truncle.yumubot.YumubotApplication - Starting YumubotApplication using Java 12.0.2 on DESKTOP-1NBRITB with PID 14928 (A:\java\Yumubot\target\classes started by Administrator in A:\java\Yumubot)
+2021-07-17 11:56:41.349 [main] DEBUG cn.truncle.yumubot.YumubotApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 11:56:41.350 [main] INFO  cn.truncle.yumubot.YumubotApplication - No active profile set, falling back to default profiles: default
+2021-07-17 11:56:42.291 [main] INFO  cn.truncle.yumubot.YumubotApplication - Started YumubotApplication in 1.218 seconds (JVM running for 2.241)
+2021-07-17 11:56:44.675 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:56:49.023 [http-nio-8080-exec-2] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"6","self_id":2480557535,"message_id":-1775733749,"message_type":"group","message":[{"data":{"text":"6"},"type":"text"}],"group_id":761711951,"sender":{"age":0,"area":"","card":"哪来的狗","level":"","nickname":"¡¡upiarotusaraK","role":"owner","sex":"unknown","title":"乐了","user_id":2313134013},"sub_type":"normal","user_id":2313134013,"post_type":"message","time":1626494209,"message_seq":245272,"font":0}
+2021-07-17 11:56:49.025 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2313134013, message = 6
+2021-07-17 11:56:49.025 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:56:49.430 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:56:51.325 [http-nio-8080-exec-4] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"我現在移動是手腕懸空","self_id":2480557535,"message_id":-2088866151,"message_type":"group","message":[{"data":{"text":"我現在移動是手腕懸空"},"type":"text"}],"group_id":928936255,"sender":{"age":0,"area":"","card":"nex_john","level":"","nickname":"雪上白羽","role":"member","sex":"unknown","title":"","user_id":3198521329},"sub_type":"normal","user_id":3198521329,"post_type":"message","time":1626494211,"message_seq":1981316,"font":0}
+2021-07-17 11:56:51.325 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3198521329, message = 我現在移動是手腕懸空
+2021-07-17 11:56:51.325 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:56:52.433 [http-nio-8080-exec-5] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"[CQ:image,file=38c43af2d49a57ceb333a61fd5baf6bc.image]","self_id":2480557535,"message_id":1781716203,"message_type":"group","message":[{"data":{"file":"38c43af2d49a57ceb333a61fd5baf6bc.image","url":"http://gchat.qpic.cn/gchatpic_new/841875335/724437570-3107128031-38C43AF2D49A57CEB333A61FD5BAF6BC/0?term=3"},"type":"image"}],"group_id":724437570,"sender":{"age":0,"area":"","card":"B1ackSand","level":"","nickname":"BlackSand","role":"member","sex":"unknown","title":"","user_id":841875335},"sub_type":"normal","user_id":841875335,"post_type":"message","time":1626494212,"message_seq":330468,"font":0}
+2021-07-17 11:56:52.433 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 841875335, message = [CQ:image,file=38c43af2d49a57ceb333a61fd5baf6bc.image]
+2021-07-17 11:56:52.433 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:56:54.437 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:56:55.820 [http-nio-8080-exec-7] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"手臂靠著桌子","self_id":2480557535,"message_id":-193372657,"message_type":"group","message":[{"data":{"text":"手臂靠著桌子"},"type":"text"}],"group_id":928936255,"sender":{"age":0,"area":"","card":"nex_john","level":"","nickname":"雪上白羽","role":"member","sex":"unknown","title":"","user_id":3198521329},"sub_type":"normal","user_id":3198521329,"post_type":"message","time":1626494215,"message_seq":1981317,"font":0}
+2021-07-17 11:56:55.820 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3198521329, message = 手臂靠著桌子
+2021-07-17 11:56:55.820 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:56:59.440 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:57:04.438 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:57:04.892 [http-nio-8080-exec-10] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"!info","sender":{"age":0,"nickname":"　　　","sex":"unknown","user_id":365246692},"sub_type":"friend","user_id":365246692,"self_id":2480557535,"message_id":-514602461,"message_type":"private","post_type":"message","target_id":2480557535,"time":1626494224,"message":[{"data":{"text":"!info"},"type":"text"}],"font":0}
+2021-07-17 11:57:04.892 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !info
+2021-07-17 11:57:04.892 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:57:05.106 [http-nio-8080-exec-1] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"改大挺正常的","self_id":2480557535,"message_id":1690715038,"message_type":"group","message":[{"data":{"text":"改大挺正常的"},"type":"text"}],"group_id":928936255,"sender":{"age":0,"area":"","card":"nex_john","level":"","nickname":"雪上白羽","role":"member","sex":"unknown","title":"","user_id":3198521329},"sub_type":"normal","user_id":3198521329,"post_type":"message","time":1626494225,"message_seq":1981318,"font":0}
+2021-07-17 11:57:05.106 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3198521329, message = 改大挺正常的
+2021-07-17 11:57:05.106 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:57:09.434 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:57:10.953 [http-nio-8080-exec-3] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"我目標全板","self_id":2480557535,"message_id":331445000,"message_type":"group","message":[{"data":{"text":"我目標全板"},"type":"text"}],"group_id":928936255,"sender":{"age":0,"area":"","card":"nex_john","level":"","nickname":"雪上白羽","role":"member","sex":"unknown","title":"","user_id":3198521329},"sub_type":"normal","user_id":3198521329,"post_type":"message","time":1626494230,"message_seq":1981319,"font":0}
+2021-07-17 11:57:10.953 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3198521329, message = 我目標全板
+2021-07-17 11:57:10.953 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:57:14.430 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:57:19.437 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:57:20.682 [http-nio-8080-exec-6] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"!ym info","sender":{"age":0,"nickname":"　　　","sex":"unknown","user_id":365246692},"sub_type":"friend","user_id":365246692,"self_id":2480557535,"message_id":2134335360,"message_type":"private","post_type":"message","target_id":2480557535,"time":1626494240,"message":[{"data":{"text":"!ym info"},"type":"text"}],"font":0}
+2021-07-17 11:57:20.682 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym info
+2021-07-17 11:57:20.682 [http-nio-8080-exec-6] INFO  cn.truncle.yumubot.service.MessageService - 
+2021-07-17 11:57:20.682 [http-nio-8080-exec-6] INFO  cn.truncle.yumubot.service.MessageService - info
+2021-07-17 11:57:20.683 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - No enum constant cn.truncle.yumubot.util.Instruction.
+2021-07-17 11:57:20.683 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 11:57:20.683 [http-nio-8080-exec-6] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 11:57:22.985 [http-nio-8080-exec-7] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"[CQ:image,file=e4d958b3f1ed0fcc83aace470b5c57e1.image]","self_id":2480557535,"message_id":-516995939,"message_type":"group","message":[{"data":{"file":"e4d958b3f1ed0fcc83aace470b5c57e1.image","url":"http://gchat.qpic.cn/gchatpic_new/2150253585/761711951-3203736249-E4D958B3F1ED0FCC83AACE470B5C57E1/0?term=3"},"type":"image"}],"group_id":761711951,"sender":{"age":0,"area":"","card":"","level":"","nickname":"神杜安乐","role":"member","sex":"unknown","title":"","user_id":2150253585},"sub_type":"normal","user_id":2150253585,"post_type":"message","time":1626494242,"message_seq":245273,"font":0}
+2021-07-17 11:57:22.985 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2150253585, message = [CQ:image,file=e4d958b3f1ed0fcc83aace470b5c57e1.image]
+2021-07-17 11:57:22.985 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:57:24.428 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:57:29.439 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:57:30.459 [http-nio-8080-exec-10] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"[CQ:image,file=f0695c366c747ed6cd262e4da95c7fa7.image]","self_id":2480557535,"message_id":490071165,"message_type":"group","message":[{"data":{"file":"f0695c366c747ed6cd262e4da95c7fa7.image","url":"http://gchat.qpic.cn/gchatpic_new/841875335/724437570-2408639126-F0695C366C747ED6CD262E4DA95C7FA7/0?term=3"},"type":"image"}],"group_id":724437570,"sender":{"age":0,"area":"","card":"B1ackSand","level":"","nickname":"BlackSand","role":"member","sex":"unknown","title":"","user_id":841875335},"sub_type":"normal","user_id":841875335,"post_type":"message","time":1626494250,"message_seq":330469,"font":0}
+2021-07-17 11:57:30.459 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 841875335, message = [CQ:image,file=f0695c366c747ed6cd262e4da95c7fa7.image]
+2021-07-17 11:57:30.459 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:57:34.437 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:57:35.947 [http-nio-8080-exec-2] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"傻吊役","self_id":2480557535,"message_id":2135675198,"message_type":"group","message":[{"data":{"text":"傻吊役"},"type":"text"}],"group_id":761711951,"sender":{"age":0,"area":"","card":"哪来的狗","level":"","nickname":"¡¡upiarotusaraK","role":"owner","sex":"unknown","title":"乐了","user_id":2313134013},"sub_type":"normal","user_id":2313134013,"post_type":"message","time":1626494255,"message_seq":245274,"font":0}
+2021-07-17 11:57:35.948 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2313134013, message = 傻吊役
+2021-07-17 11:57:35.948 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:57:39.427 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:57:39.467 [http-nio-8080-exec-4] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"[CQ:image,file=3d9f35dfc134e19627605714dfb39537.image]","self_id":2480557535,"message_id":139256232,"message_type":"group","message":[{"data":{"file":"3d9f35dfc134e19627605714dfb39537.image","url":"http://gchat.qpic.cn/gchatpic_new/2313134013/761711951-2356429834-3D9F35DFC134E19627605714DFB39537/0?term=3"},"type":"image"}],"group_id":761711951,"sender":{"age":0,"area":"","card":"哪来的狗","level":"","nickname":"¡¡upiarotusaraK","role":"owner","sex":"unknown","title":"乐了","user_id":2313134013},"sub_type":"normal","user_id":2313134013,"post_type":"message","time":1626494259,"message_seq":245275,"font":0}
+2021-07-17 11:57:39.468 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2313134013, message = [CQ:image,file=3d9f35dfc134e19627605714dfb39537.image]
+2021-07-17 11:57:39.468 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:57:44.434 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:57:46.583 [http-nio-8080-exec-6] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"健身？","self_id":2480557535,"message_id":1093703791,"message_type":"group","message":[{"data":{"text":"健身？"},"type":"text"}],"group_id":928936255,"sender":{"age":0,"area":"","card":"Tory Cell | 五位数守门员","level":"","nickname":"托里拆利","role":"member","sex":"unknown","title":"","user_id":2585586777},"sub_type":"normal","user_id":2585586777,"post_type":"message","time":1626494266,"message_seq":1981320,"font":0}
+2021-07-17 11:57:46.584 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2585586777, message = 健身？
+2021-07-17 11:57:46.584 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:57:49.433 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:57:54.436 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:57:59.428 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:58:06.485 [main] INFO  cn.truncle.yumubot.YumubotApplication - Starting YumubotApplication using Java 12.0.2 on DESKTOP-1NBRITB with PID 13788 (A:\java\Yumubot\target\classes started by Administrator in A:\java\Yumubot)
+2021-07-17 11:58:06.487 [main] DEBUG cn.truncle.yumubot.YumubotApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 11:58:06.487 [main] INFO  cn.truncle.yumubot.YumubotApplication - No active profile set, falling back to default profiles: default
+2021-07-17 11:58:07.310 [main] INFO  cn.truncle.yumubot.YumubotApplication - Started YumubotApplication in 1.07 seconds (JVM running for 1.908)
+2021-07-17 11:58:08.144 [http-nio-8080-exec-1] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"[CQ:image,file=f0695c366c747ed6cd262e4da95c7fa7.image]草","self_id":2480557535,"message_id":2113039768,"message_type":"group","message":[{"data":{"file":"f0695c366c747ed6cd262e4da95c7fa7.image","url":"http://gchat.qpic.cn/gchatpic_new/467935616/724437570-2336658407-F0695C366C747ED6CD262E4DA95C7FA7/0?term=3"},"type":"image"},{"data":{"text":"草"},"type":"text"}],"group_id":724437570,"sender":{"age":0,"area":"","card":"","level":"","nickname":"stllok","role":"owner","sex":"unknown","title":"","user_id":467935616},"sub_type":"normal","user_id":467935616,"post_type":"message","time":1626494288,"message_seq":330470,"font":0}
+2021-07-17 11:58:08.146 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 467935616, message = [CQ:image,file=f0695c366c747ed6cd262e4da95c7fa7.image]草
+2021-07-17 11:58:08.146 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:58:09.428 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:58:11.937 [http-nio-8080-exec-3] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"www","sender":{"age":0,"nickname":"　　　","sex":"unknown","user_id":365246692},"sub_type":"friend","user_id":365246692,"self_id":2480557535,"message_id":137391894,"message_type":"private","post_type":"message","target_id":2480557535,"time":1626494291,"message":[{"data":{"text":"www"},"type":"text"}],"font":0}
+2021-07-17 11:58:11.937 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = www
+2021-07-17 11:58:11.937 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:58:13.555 [http-nio-8080-exec-4] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"public asshole","self_id":2480557535,"message_id":183852302,"message_type":"group","message":[{"data":{"text":"public asshole"},"type":"text"}],"group_id":724437570,"sender":{"age":0,"area":"","card":"KZK_","level":"","nickname":"Sk1KZK","role":"member","sex":"unknown","title":"电信受害者","user_id":2477412379},"sub_type":"normal","user_id":2477412379,"post_type":"message","time":1626494293,"message_seq":330471,"font":0}
+2021-07-17 11:58:13.555 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2477412379, message = public asshole
+2021-07-17 11:58:13.555 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:58:14.433 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:58:14.934 [http-nio-8080-exec-6] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"老實說 這個姿勢讓我挺舒服的=-=","self_id":2480557535,"message_id":-1354827453,"message_type":"group","message":[{"data":{"text":"老實說 這個姿勢讓我挺舒服的=-="},"type":"text"}],"group_id":928936255,"sender":{"age":0,"area":"","card":"nex_john","level":"","nickname":"雪上白羽","role":"member","sex":"unknown","title":"","user_id":3198521329},"sub_type":"normal","user_id":3198521329,"post_type":"message","time":1626494294,"message_seq":1981322,"font":0}
+2021-07-17 11:58:14.934 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3198521329, message = 老實說 這個姿勢讓我挺舒服的=-=
+2021-07-17 11:58:14.934 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:58:19.435 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:58:24.439 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:58:29.436 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:58:32.861 [http-nio-8080-exec-10] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"!info ffd\n","sender":{"age":0,"nickname":"　　　","sex":"unknown","user_id":365246692},"sub_type":"friend","user_id":365246692,"self_id":2480557535,"message_id":-1858519380,"message_type":"private","post_type":"message","target_id":2480557535,"time":1626494312,"message":[{"data":{"text":"!info ffd\n"},"type":"text"}],"font":0}
+2021-07-17 11:58:32.861 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !info ffd
+
+2021-07-17 11:58:32.861 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:58:34.435 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:58:38.690 [http-nio-8080-exec-2] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"痠是會痠 但是沒我之前那個姿勢來的痠  我上個姿勢是直接讓我手指炸開","self_id":2480557535,"message_id":-667301419,"message_type":"group","message":[{"data":{"text":"痠是會痠 但是沒我之前那個姿勢來的痠  我上個姿勢是直接讓我手指炸開"},"type":"text"}],"group_id":928936255,"sender":{"age":0,"area":"","card":"nex_john","level":"","nickname":"雪上白羽","role":"member","sex":"unknown","title":"","user_id":3198521329},"sub_type":"normal","user_id":3198521329,"post_type":"message","time":1626494318,"message_seq":1981323,"font":0}
+2021-07-17 11:58:38.690 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3198521329, message = 痠是會痠 但是沒我之前那個姿勢來的痠  我上個姿勢是直接讓我手指炸開
+2021-07-17 11:58:38.690 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:58:39.436 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:58:43.244 [http-nio-8080-exec-4] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"[CQ:image,file=1c852d9d4f6fa93e54c8ccfe92070122.image]","self_id":2480557535,"message_id":-1857703918,"message_type":"group","message":[{"data":{"file":"1c852d9d4f6fa93e54c8ccfe92070122.image","url":"http://gchat.qpic.cn/gchatpic_new/2313134013/761711951-2305673880-1C852D9D4F6FA93E54C8CCFE92070122/0?term=3"},"type":"image"}],"group_id":761711951,"sender":{"age":0,"area":"","card":"哪来的狗","level":"","nickname":"¡¡upiarotusaraK","role":"owner","sex":"unknown","title":"乐了","user_id":2313134013},"sub_type":"normal","user_id":2313134013,"post_type":"message","time":1626494323,"message_seq":245276,"font":0}
+2021-07-17 11:58:43.244 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2313134013, message = [CQ:image,file=1c852d9d4f6fa93e54c8ccfe92070122.image]
+2021-07-17 11:58:43.244 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:58:44.430 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:58:44.834 [http-nio-8080-exec-6] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"刚刚振听自摸了","self_id":2480557535,"message_id":-431849340,"message_type":"group","message":[{"data":{"text":"刚刚振听自摸了"},"type":"text"}],"group_id":761711951,"sender":{"age":0,"area":"","card":"雀个几把","level":"","nickname":"opera","role":"member","sex":"unknown","title":"","user_id":1324336875},"sub_type":"normal","user_id":1324336875,"post_type":"message","time":1626494324,"message_seq":245277,"font":0}
+2021-07-17 11:58:44.834 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1324336875, message = 刚刚振听自摸了
+2021-07-17 11:58:44.834 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:58:47.965 [http-nio-8080-exec-7] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"而且筆還會滑掉 打一把就炸開","self_id":2480557535,"message_id":1180523638,"message_type":"group","message":[{"data":{"text":"而且筆還會滑掉 打一把就炸開"},"type":"text"}],"group_id":928936255,"sender":{"age":0,"area":"","card":"nex_john","level":"","nickname":"雪上白羽","role":"member","sex":"unknown","title":"","user_id":3198521329},"sub_type":"normal","user_id":3198521329,"post_type":"message","time":1626494327,"message_seq":1981324,"font":0}
+2021-07-17 11:58:47.965 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3198521329, message = 而且筆還會滑掉 打一把就炸開
+2021-07-17 11:58:47.965 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:58:49.434 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:58:51.177 [http-nio-8080-exec-9] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"6","self_id":2480557535,"message_id":1996332309,"message_type":"group","message":[{"data":{"text":"6"},"type":"text"}],"group_id":761711951,"sender":{"age":0,"area":"","card":"哪来的狗","level":"","nickname":"¡¡upiarotusaraK","role":"owner","sex":"unknown","title":"乐了","user_id":2313134013},"sub_type":"normal","user_id":2313134013,"post_type":"message","time":1626494331,"message_seq":245278,"font":0}
+2021-07-17 11:58:51.178 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2313134013, message = 6
+2021-07-17 11:58:51.178 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:58:54.432 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:58:57.266 [http-nio-8080-exec-1] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"這個姿勢就讓我右手耐力提升了","self_id":2480557535,"message_id":828009696,"message_type":"group","message":[{"data":{"text":"這個姿勢就讓我右手耐力提升了"},"type":"text"}],"group_id":928936255,"sender":{"age":0,"area":"","card":"nex_john","level":"","nickname":"雪上白羽","role":"member","sex":"unknown","title":"","user_id":3198521329},"sub_type":"normal","user_id":3198521329,"post_type":"message","time":1626494337,"message_seq":1981325,"font":0}
+2021-07-17 11:58:57.266 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3198521329, message = 這個姿勢就讓我右手耐力提升了
+2021-07-17 11:58:57.267 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:58:59.429 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:59:04.431 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:59:08.138 [http-nio-8080-exec-4] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"[CQ:image,file=437b8c27fd28544a3126de1bc339653f.image]","self_id":2480557535,"message_id":-1134005526,"message_type":"group","message":[{"data":{"file":"437b8c27fd28544a3126de1bc339653f.image","url":"http://gchat.qpic.cn/gchatpic_new/718094523/1054168714-2820165015-437B8C27FD28544A3126DE1BC339653F/0?term=3"},"type":"image"}],"group_id":1054168714,"sender":{"age":0,"area":"","card":"","level":"","nickname":"Liliaceae213","role":"member","sex":"unknown","title":"","user_id":718094523},"sub_type":"normal","user_id":718094523,"post_type":"message","time":1626494348,"message_seq":19720,"font":0}
+2021-07-17 11:59:08.139 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 718094523, message = [CQ:image,file=437b8c27fd28544a3126de1bc339653f.image]
+2021-07-17 11:59:08.139 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:59:08.846 [http-nio-8080-exec-5] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"[CQ:image,file=20596168313ac599898ddae3ee42abf6.image]","self_id":2480557535,"message_id":-1470939814,"message_type":"group","message":[{"data":{"file":"20596168313ac599898ddae3ee42abf6.image","url":"http://gchat.qpic.cn/gchatpic_new/277095281/928936255-3111866965-20596168313AC599898DDAE3EE42ABF6/0?term=3"},"type":"image"}],"group_id":928936255,"sender":{"age":0,"area":"","card":"Miiiaooo  | 鹿鹿 | @我代更pp+","level":"","nickname":"鹿先生","role":"member","sex":"unknown","title":"","user_id":277095281},"sub_type":"normal","user_id":277095281,"post_type":"message","time":1626494348,"message_seq":1981326,"font":0}
+2021-07-17 11:59:08.847 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 277095281, message = [CQ:image,file=20596168313ac599898ddae3ee42abf6.image]
+2021-07-17 11:59:08.847 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:59:09.430 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:59:12.315 [http-nio-8080-exec-7] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"这是啥字","self_id":2480557535,"message_id":-548139572,"message_type":"group","message":[{"data":{"text":"这是啥字"},"type":"text"}],"group_id":928936255,"sender":{"age":0,"area":"","card":"Miiiaooo  | 鹿鹿 | @我代更pp+","level":"","nickname":"鹿先生","role":"member","sex":"unknown","title":"","user_id":277095281},"sub_type":"normal","user_id":277095281,"post_type":"message","time":1626494352,"message_seq":1981327,"font":0}
+2021-07-17 11:59:12.316 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 277095281, message = 这是啥字
+2021-07-17 11:59:12.316 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:59:14.441 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:59:19.427 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:59:20.201 [http-nio-8080-exec-10] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"酸","self_id":2480557535,"message_id":1340805213,"message_type":"group","message":[{"data":{"text":"酸"},"type":"text"}],"group_id":928936255,"sender":{"age":0,"area":"","card":"a shit player | 万年瓶颈期","level":"","nickname":"ws","role":"member","sex":"unknown","title":"","user_id":1826861819},"sub_type":"normal","user_id":1826861819,"post_type":"message","time":1626494360,"message_seq":1981328,"font":0}
+2021-07-17 11:59:20.202 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1826861819, message = 酸
+2021-07-17 11:59:20.202 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:59:24.436 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:59:29.427 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:59:32.341 [http-nio-8080-exec-3] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"!ym info","sender":{"age":0,"nickname":"　　　","sex":"unknown","user_id":365246692},"sub_type":"friend","user_id":365246692,"self_id":2480557535,"message_id":1988170667,"message_type":"private","post_type":"message","target_id":2480557535,"time":1626494372,"message":[{"data":{"text":"!ym info"},"type":"text"}],"font":0}
+2021-07-17 11:59:32.342 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym info
+2021-07-17 11:59:32.342 [http-nio-8080-exec-3] INFO  cn.truncle.yumubot.service.MessageService - ***********
+2021-07-17 11:59:32.342 [http-nio-8080-exec-3] INFO  cn.truncle.yumubot.service.MessageService - ***********info
+2021-07-17 11:59:32.343 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - No enum constant cn.truncle.yumubot.util.Instruction.
+2021-07-17 11:59:32.343 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 11:59:32.343 [http-nio-8080-exec-3] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 11:59:33.347 [http-nio-8080-exec-4] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"嗷…","self_id":2480557535,"message_id":954998987,"message_type":"group","message":[{"data":{"text":"嗷…"},"type":"text"}],"group_id":928936255,"sender":{"age":0,"area":"","card":"Miiiaooo  | 鹿鹿 | @我代更pp+","level":"","nickname":"鹿先生","role":"member","sex":"unknown","title":"","user_id":277095281},"sub_type":"normal","user_id":277095281,"post_type":"message","time":1626494373,"message_seq":1981329,"font":0}
+2021-07-17 11:59:33.348 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 277095281, message = 嗷…
+2021-07-17 11:59:33.348 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 11:59:34.427 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:59:39.429 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:59:44.429 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:59:49.428 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:59:54.434 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 11:59:54.546 [http-nio-8080-exec-10] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"!ym INFO","sender":{"age":0,"nickname":"　　　","sex":"unknown","user_id":365246692},"sub_type":"friend","user_id":365246692,"self_id":2480557535,"message_id":25568061,"message_type":"private","post_type":"message","target_id":2480557535,"time":1626494394,"message":[{"data":{"text":"!ym INFO"},"type":"text"}],"font":0}
+2021-07-17 11:59:54.546 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym INFO
+2021-07-17 11:59:54.546 [http-nio-8080-exec-10] INFO  cn.truncle.yumubot.service.MessageService - ***********
+2021-07-17 11:59:54.546 [http-nio-8080-exec-10] INFO  cn.truncle.yumubot.service.MessageService - ***********INFO
+2021-07-17 11:59:54.546 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - No enum constant cn.truncle.yumubot.util.Instruction.
+2021-07-17 11:59:54.546 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 11:59:54.546 [http-nio-8080-exec-10] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 11:59:59.437 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:00:04.436 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:00:09.440 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:00:14.436 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:00:19.432 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:00:24.431 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:00:29.437 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:00:31.624 [http-nio-8080-exec-8] INFO  cn.truncle.yumubot.service.MessageService - {"raw_message":"!ym info","sender":{"age":0,"nickname":"　　　","sex":"unknown","user_id":365246692},"sub_type":"friend","user_id":365246692,"self_id":2480557535,"message_id":-1564186643,"message_type":"private","post_type":"message","target_id":2480557535,"time":1626494431,"message":[{"data":{"text":"!ym info"},"type":"text"}],"font":0}
+2021-07-17 12:00:31.624 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym info
+2021-07-17 12:00:31.624 [http-nio-8080-exec-8] INFO  cn.truncle.yumubot.service.MessageService - ***********
+2021-07-17 12:00:31.624 [http-nio-8080-exec-8] INFO  cn.truncle.yumubot.service.MessageService - ***********info
+2021-07-17 12:00:31.624 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - No enum constant cn.truncle.yumubot.util.Instruction.
+2021-07-17 12:00:31.625 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:00:31.625 [http-nio-8080-exec-8] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 12:00:34.433 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:00:39.782 [main] INFO  cn.truncle.yumubot.YumubotApplication - Starting YumubotApplication using Java 12.0.2 on DESKTOP-1NBRITB with PID 2508 (A:\java\Yumubot\target\classes started by Administrator in A:\java\Yumubot)
+2021-07-17 12:00:39.783 [main] DEBUG cn.truncle.yumubot.YumubotApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:00:39.784 [main] INFO  cn.truncle.yumubot.YumubotApplication - No active profile set, falling back to default profiles: default
+2021-07-17 12:00:40.616 [main] INFO  cn.truncle.yumubot.YumubotApplication - Started YumubotApplication in 1.076 seconds (JVM running for 1.936)
+2021-07-17 12:00:41.045 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:00:44.432 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:00:49.429 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:00:53.449 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.NoticeService - 这里是notice service
+2021-07-17 12:00:54.439 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:00:55.821 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.NoticeService - 这里是notice service
+2021-07-17 12:00:58.705 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.NoticeService - 这里是notice service
+2021-07-17 12:00:59.435 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:01:02.614 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1324336875, message =  [CQ:image,file=a079bc520daef6e6fd1c72c926e2f1aa.image]
+2021-07-17 12:01:02.614 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:01:02.794 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1324336875, message = 傻吊
+2021-07-17 12:01:02.794 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:01:04.429 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:01:06.887 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1324336875, message = 老子四个dora
+2021-07-17 12:01:06.887 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:01:09.427 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:01:14.438 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:01:15.704 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1324336875, message = [CQ:image,file=637c7de044f6d363537b8dd32380fef0.image]
+2021-07-17 12:01:15.704 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:01:19.429 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:01:19.898 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym wiki
+2021-07-17 12:01:19.899 [http-nio-8080-exec-5] INFO  cn.truncle.yumubot.service.MessageService - ***********WIKI
+2021-07-17 12:01:19.899 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - Index 2 out of bounds for length 2
+2021-07-17 12:01:19.899 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:01:19.899 [http-nio-8080-exec-5] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 12:01:24.437 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:01:29.434 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:01:34.426 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:01:35.161 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3198521329, message = 我這姿勢是參考xooty的
+2021-07-17 12:01:35.161 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:01:39.433 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:01:42.079 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1579525246, message = 快跑
+2021-07-17 12:01:42.079 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:01:44.434 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:01:45.099 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym wiki acc
+2021-07-17 12:01:45.099 [http-nio-8080-exec-6] INFO  cn.truncle.yumubot.service.MessageService - ***********WIKI
+2021-07-17 12:01:45.100 [http-nio-8080-exec-6] INFO  cn.truncle.yumubot.service.MessageService - ***********acc
+2021-07-17 12:01:45.101 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:01:45.101 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:01:45.101 [http-nio-8080-exec-6] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 12:01:46.316 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1579525246, message = 是dana
+2021-07-17 12:01:46.316 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:01:49.426 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:01:54.436 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:01:59.437 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:02:00.520 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym wiki ACC
+2021-07-17 12:02:00.520 [http-nio-8080-exec-9] INFO  cn.truncle.yumubot.service.MessageService - ***********WIKI
+2021-07-17 12:02:00.520 [http-nio-8080-exec-9] INFO  cn.truncle.yumubot.service.MessageService - ***********ACC
+2021-07-17 12:02:00.520 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:02:00.520 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:02:00.520 [http-nio-8080-exec-9] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 12:02:04.437 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:02:09.428 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:02:14.428 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:02:19.429 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:02:24.437 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:02:29.439 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:02:33.990 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2313134013, message = 没牌了
+2021-07-17 12:02:33.990 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:02:37.567 [main] INFO  cn.truncle.yumubot.YumubotApplication - Starting YumubotApplication using Java 12.0.2 on DESKTOP-1NBRITB with PID 14072 (A:\java\Yumubot\target\classes started by Administrator in A:\java\Yumubot)
+2021-07-17 12:02:37.568 [main] DEBUG cn.truncle.yumubot.YumubotApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:02:37.569 [main] INFO  cn.truncle.yumubot.YumubotApplication - No active profile set, falling back to default profiles: default
+2021-07-17 12:02:38.397 [main] INFO  cn.truncle.yumubot.YumubotApplication - Started YumubotApplication in 1.073 seconds (JVM running for 1.94)
+2021-07-17 12:02:39.518 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:02:41.812 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2313134013, message = 赌1m暗刻了
+2021-07-17 12:02:41.812 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:02:44.441 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:02:45.309 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.NoticeService - 这里是notice service
+2021-07-17 12:02:47.836 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.NoticeService - 这里是notice service
+2021-07-17 12:02:49.428 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:02:50.032 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.NoticeService - 这里是notice service
+2021-07-17 12:02:53.959 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1324336875, message = [CQ:image,file=62b76437d3340d94e7601d14fec0e445.image]
+2021-07-17 12:02:53.959 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:02:54.252 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1324336875, message = 嗯
+2021-07-17 12:02:54.253 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:02:54.436 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:02:59.438 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:03:01.124 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym wiki ACC
+2021-07-17 12:03:01.125 [http-nio-8080-exec-2] INFO  cn.truncle.yumubot.service.MessageService - ***********WIKI
+2021-07-17 12:03:01.125 [http-nio-8080-exec-2] INFO  cn.truncle.yumubot.service.MessageService - ***********ACC
+2021-07-17 12:03:01.230 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:03:01.231 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:03:01.231 [http-nio-8080-exec-2] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 12:03:01.625 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2313134013, message = [CQ:image,file=3d9f35dfc134e19627605714dfb39537.image]
+2021-07-17 12:03:01.626 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:03:04.427 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:03:09.430 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:03:14.431 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:03:19.435 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:03:20.505 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = [CQ:xml,data=<?xml version='1.0' encoding='UTF-8' standalone='yes' ?><msg serviceID="128" templateID="12345" action="native" brief="&#91;链接&#93;邀请你加入群聊" sourceMsgId="0" url=""><item layout="2"><picture cover=""/><title>邀请你加入群聊</title><summary /></item><data groupcode="746671531" groupname="YumuBot" msgseq="1626494597361235" msgtype="2"/></msg>,resid=128]
+2021-07-17 12:03:20.505 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:03:20.554 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.RequestService - 这里是request service
+2021-07-17 12:03:24.426 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:03:27.281 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.NoticeService - 这里是notice service
+2021-07-17 12:03:29.437 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:03:30.973 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1527617221, message = 快跑
+2021-07-17 12:03:30.973 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:03:34.427 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:03:35.915 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2422912982, message = 快跑
+2021-07-17 12:03:35.916 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:03:36.996 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3122245344, message = [CQ:at,qq=804295986] 
+2021-07-17 12:03:36.997 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:03:39.435 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:03:41.160 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2313134013, message = [CQ:image,file=a58ee464bb488e7ab97f3eb2b856c5ab.image]
+2021-07-17 12:03:41.161 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:03:43.429 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym wiki ACC
+2021-07-17 12:03:43.430 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - No enum constant cn.truncle.yumubot.util.Instruction.
+2021-07-17 12:03:43.430 [http-nio-8080-exec-10] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 12:03:44.435 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:03:45.283 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 853828218, message = @蓝拖把 
+2021-07-17 12:03:45.284 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:03:49.428 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:03:51.863 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = [CQ:image,file=996eca0fff50435130ae527ca58285a3.image]
+2021-07-17 12:03:51.864 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:03:54.440 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:03:57.118 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 277095281, message = 快跑
+2021-07-17 12:03:57.118 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:03:59.428 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:04:04.440 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:04:05.435 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3198521329, message = 快跑
+2021-07-17 12:04:05.436 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:04:09.427 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:04:10.493 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1660334211, message = 快跑
+2021-07-17 12:04:10.493 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:04:14.431 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:04:19.371 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3198521329, message = 是日本人 快跑
+2021-07-17 12:04:19.372 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:04:19.434 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:04:24.440 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:04:29.429 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:04:30.633 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2313134013, message = 6
+2021-07-17 12:04:30.633 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:04:31.393 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 853828218, message = 今天的蓝毛被欺负了[CQ:face,id=123]
+2021-07-17 12:04:31.393 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:04:31.801 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1528769425, message = 什么
+2021-07-17 12:04:31.802 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:04:34.435 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:04:35.673 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1528769425, message = 哪里有日本人
+2021-07-17 12:04:35.673 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:04:38.501 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2313134013, message = &#91;哈哈&#93;
+2021-07-17 12:04:38.501 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:04:39.433 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:04:42.551 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 853828218, message = &#91;表情&#93;
+2021-07-17 12:04:42.551 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:04:44.437 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:04:49.440 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:04:54.314 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1183896575, message = ？
+2021-07-17 12:04:54.314 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:04:54.435 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:04:56.544 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2477412379, message = [CQ:image,file=564b5913df77f2f93759108b0d100db7.image]?
+2021-07-17 12:04:56.545 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:04:58.107 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 853828218, message = [CQ:reply,id=-967885683,seq=1981337,qq=1660334211,time=1626494647,text=快跑][CQ:at,qq=1660334211] 🌸妹在这
+2021-07-17 12:04:58.107 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:04:59.191 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2477412379, message = 细说
+2021-07-17 12:04:59.191 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:04:59.436 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:04:59.578 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1183896575, message = r18g请私
+2021-07-17 12:04:59.578 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:05:04.438 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:05:09.441 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:05:14.434 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:05:19.431 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:05:21.154 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2196132862, message = 很有趣，我很喜欢。
+2021-07-17 12:05:21.154 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:05:24.441 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:05:27.653 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2313134013, message = [CQ:image,file=e1ca0dca7016512006c187f1fef090c8.image]
+2021-07-17 12:05:27.654 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:05:28.419 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 841875335, message = [CQ:image,file=64e16ca88f71e3ba3ae04fbf2988b38a.image]
+2021-07-17 12:05:28.419 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:05:29.428 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:05:33.905 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1324336875, message = [CQ:image,file=63f0844d99d2d6022460cefdd727fe68.image]
+2021-07-17 12:05:33.905 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:05:34.426 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:05:39.433 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:05:39.579 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 937177504, message = ?rn
+2021-07-17 12:05:39.579 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:05:40.009 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3266654349, message = [CQ:at,qq=937177504] 
+参数错误：缺少必要参数：玩家名，绑定您的osu账号后可以省略
+2021-07-17 12:05:40.009 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:05:40.108 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 853828218, message = 蓝毛不打了？
+2021-07-17 12:05:40.108 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:05:44.427 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:05:49.427 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:05:52.269 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1324336875, message = 等我打完铜之间
+2021-07-17 12:05:52.269 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:05:52.373 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3122245344, message = aoge呢
+2021-07-17 12:05:52.373 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:05:54.434 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:05:58.535 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2313134013, message = 6
+2021-07-17 12:05:58.535 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:05:58.841 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = [CQ:at,qq=1968035918] 啊你这边分发有个小问题，正则匹配从1开始
+2021-07-17 12:05:58.841 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:05:59.438 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:06:04.152 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 853828218, message = 放lceo
+2021-07-17 12:06:04.152 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:06:04.433 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:06:05.400 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1183896575, message = 谢谢
+2021-07-17 12:06:05.400 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:06:08.072 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3122245344, message = 我掉了
+2021-07-17 12:06:08.072 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:06:09.440 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:06:11.087 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2196132862, message = 最近喜欢看文章了
+2021-07-17 12:06:11.087 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:06:11.669 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3122245344, message = 拉我
+2021-07-17 12:06:11.669 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:06:14.426 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:06:19.253 [main] INFO  cn.truncle.yumubot.YumubotApplication - Starting YumubotApplication using Java 12.0.2 on DESKTOP-1NBRITB with PID 2236 (A:\java\Yumubot\target\classes started by Administrator in A:\java\Yumubot)
+2021-07-17 12:06:19.255 [main] DEBUG cn.truncle.yumubot.YumubotApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:06:19.255 [main] INFO  cn.truncle.yumubot.YumubotApplication - No active profile set, falling back to default profiles: default
+2021-07-17 12:06:20.081 [main] INFO  cn.truncle.yumubot.YumubotApplication - Started YumubotApplication in 1.07 seconds (JVM running for 1.968)
+2021-07-17 12:06:20.563 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:06:20.565 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2196132862, message = 本子突然找不到想要的
+2021-07-17 12:06:20.565 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:06:22.902 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1183896575, message = ？
+2021-07-17 12:06:22.902 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:06:24.198 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 853828218, message = 歌桥婚庆
+2021-07-17 12:06:24.198 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:06:24.433 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:06:27.227 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym wiki ACC
+2021-07-17 12:06:27.246 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:06:27.247 [http-nio-8080-exec-6] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 12:06:27.298 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1183896575, message = 文章不好冲
+2021-07-17 12:06:27.299 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:06:28.180 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2196132862, message = 可能是我的xp太奇怪了
+2021-07-17 12:06:28.181 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:06:29.432 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:06:32.278 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2313134013, message = ?
+2021-07-17 12:06:32.278 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:06:34.438 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:06:39.433 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:06:46.141 [main] INFO  cn.truncle.yumubot.YumubotApplication - Starting YumubotApplication using Java 12.0.2 on DESKTOP-1NBRITB with PID 4628 (A:\java\Yumubot\target\classes started by Administrator in A:\java\Yumubot)
+2021-07-17 12:06:46.143 [main] DEBUG cn.truncle.yumubot.YumubotApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:06:46.143 [main] INFO  cn.truncle.yumubot.YumubotApplication - No active profile set, falling back to default profiles: default
+2021-07-17 12:06:46.968 [main] INFO  cn.truncle.yumubot.YumubotApplication - Started YumubotApplication in 1.063 seconds (JVM running for 1.913)
+2021-07-17 12:06:49.482 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:06:49.482 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.NoticeService - 这里是notice service
+2021-07-17 12:06:50.421 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym wiki ACC
+2021-07-17 12:06:50.440 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:06:50.441 [http-nio-8080-exec-4] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 12:06:52.715 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2313134013, message = 我摸了
+2021-07-17 12:06:52.716 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:06:54.155 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2313134013, message = zzz
+2021-07-17 12:06:54.155 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:06:54.434 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:06:59.427 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:07:00.690 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2196132862, message = [CQ:reply,id=342102139,seq=330482,qq=1183896575,time=1626494784,text=文章不好冲] [CQ:at,qq=1183896575] 臆想还蛮不错的
+2021-07-17 12:07:00.690 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:07:04.113 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym wiki ACC
+2021-07-17 12:07:04.115 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:07:04.115 [http-nio-8080-exec-9] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 12:07:04.434 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:07:09.433 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:07:14.429 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:07:17.605 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.NoticeService - 这里是notice service
+2021-07-17 12:07:19.436 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:07:19.953 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.NoticeService - 这里是notice service
+2021-07-17 12:07:23.557 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 853828218, message = [CQ:image,file=8da7391ff9a54f0c8b0a145688d4d809.image]
+2021-07-17 12:07:23.557 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:07:24.438 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:07:29.141 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 853828218, message = &#91;机智&#93;
+2021-07-17 12:07:29.141 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:07:29.427 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:07:31.152 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3198521329, message = 這映射真的移起來有點累--
+2021-07-17 12:07:31.153 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:07:32.753 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2313134013, message = 6
+2021-07-17 12:07:32.753 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:07:34.434 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:07:39.429 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:07:44.176 [main] INFO  cn.truncle.yumubot.YumubotApplication - Starting YumubotApplication using Java 12.0.2 on DESKTOP-1NBRITB with PID 11948 (A:\java\Yumubot\target\classes started by Administrator in A:\java\Yumubot)
+2021-07-17 12:07:44.177 [main] DEBUG cn.truncle.yumubot.YumubotApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:07:44.178 [main] INFO  cn.truncle.yumubot.YumubotApplication - No active profile set, falling back to default profiles: default
+2021-07-17 12:07:45.012 [main] INFO  cn.truncle.yumubot.YumubotApplication - Started YumubotApplication in 1.074 seconds (JVM running for 1.957)
+2021-07-17 12:07:45.441 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1324336875, message = 婚庆总策划了属于是
+2021-07-17 12:07:45.442 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:07:45.444 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:07:48.979 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3198521329, message = 甚至可以從板子上看出譜面長甚麼樣子
+2021-07-17 12:07:48.979 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:07:49.433 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:07:50.498 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym wiki ACC
+2021-07-17 12:07:50.678 [http-nio-8080-exec-5] ERROR cn.truncle.yumubot.service.CQService - {"msg":"SEND_MSG_API_ERROR","wording":"请参考输出","retcode":100,"status":"failed"}
+2021-07-17 12:07:50.678 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:07:50.678 [http-nio-8080-exec-5] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 12:07:54.429 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:07:59.439 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:07:59.936 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3122245344, message = 我去打段位
+2021-07-17 12:07:59.937 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:08:00.222 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym wiki 评级
+2021-07-17 12:08:00.355 [http-nio-8080-exec-9] ERROR cn.truncle.yumubot.service.CQService - {"msg":"SEND_MSG_API_ERROR","wording":"请参考输出","retcode":100,"status":"failed"}
+2021-07-17 12:08:00.355 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:08:00.355 [http-nio-8080-exec-9] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 12:08:04.435 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:08:09.428 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:08:13.427 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2422912982, message = ！rctpp
+2021-07-17 12:08:13.428 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:08:14.437 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:08:15.501 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3122245344, message = 经典四人南
+2021-07-17 12:08:15.501 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:08:16.356 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2422912982, message = 阿西这个真的累死
+2021-07-17 12:08:16.357 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:08:18.220 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2680306741, message = [CQ:at,qq=2422912982]  
+Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru &#91;Extra Collab&#93; 
+Beatmap by Kite 
+&#91;ar9.5 cs3.2 od8.5 hp4  bpm250&#93;
+[CQ:image,file=bf35f481ae6f3c35849baa75c2803edf.image]stars: 5.93* |  
+197x/2221x | 85.84% | C 
+
+85.84%: 10.01pp
+87.51%: 187.72pp
+100.0%: 324.37pp
+24miss，whir的连打推荐出炉啦
+https://osu.ppy.sh/b/2040764
+2021-07-17 12:08:18.221 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:08:19.438 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:08:24.433 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:08:29.438 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:08:33.440 [main] INFO  cn.truncle.yumubot.YumubotApplication - Starting YumubotApplication using Java 12.0.2 on DESKTOP-1NBRITB with PID 10032 (A:\java\Yumubot\target\classes started by Administrator in A:\java\Yumubot)
+2021-07-17 12:08:33.442 [main] DEBUG cn.truncle.yumubot.YumubotApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:08:33.442 [main] INFO  cn.truncle.yumubot.YumubotApplication - No active profile set, falling back to default profiles: default
+2021-07-17 12:08:34.274 [main] INFO  cn.truncle.yumubot.YumubotApplication - Started YumubotApplication in 1.079 seconds (JVM running for 1.939)
+2021-07-17 12:08:34.400 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3266654349, message = [CQ:at,qq=2574950295] 
+bp成绩统计：
+8 个 XH
+2 个 X
+30 个 SH
+46 个 S
+14 个 A
+mod统计：
+57 个 None ， 最高pp：176
+40 个 HD ， 最高pp：173
+34 个 DT ， 最高pp：173
+6 个 NC ， 最高pp：161
+2 个 PF ， 最高pp：154
+1 个 SD ， 最高pp：111
+bp最高pp：176
+bp最低pp：111
+其中有 29 个S评级的成绩不是满combo
+2021-07-17 12:08:34.401 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:08:34.410 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2574950295, message = ?rn
+2021-07-17 12:08:34.410 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:08:34.429 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:08:39.430 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:08:44.432 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:08:49.427 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:08:54.433 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:08:59.110 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym wiki ACC
+2021-07-17 12:08:59.364 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:08:59.364 [http-nio-8080-exec-7] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 12:08:59.439 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:09:04.439 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:09:09.437 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:09:14.427 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:09:15.558 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym wiki ar
+2021-07-17 12:09:15.785 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:09:15.785 [http-nio-8080-exec-2] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 12:09:19.435 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:09:21.559 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1340691940, message = 行
+2021-07-17 12:09:21.560 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:09:24.427 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:09:29.434 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:09:34.429 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:09:39.434 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:09:44.433 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:09:49.436 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:09:50.973 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 937177504, message = ?rn reecho
+2021-07-17 12:09:50.973 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:09:52.191 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3266654349, message = [CQ:at,qq=937177504] 
+bp成绩统计：
+1 个 X
+65 个 S
+33 个 A
+1 个 B
+mod统计：
+38 个 HR ， 最高pp：377
+32 个 DT ， 最高pp：310
+28 个 None ， 最高pp：292
+2 个 NC ， 最高pp：249
+bp最高pp：377
+bp最低pp：239
+其中有 21 个S评级的成绩不是满combo
+2021-07-17 12:09:52.192 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:09:54.435 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:09:55.312 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1183896575, message = 6
+2021-07-17 12:09:55.312 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:09:58.906 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym wiki
+2021-07-17 12:09:58.907 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - Index 2 out of bounds for length 2
+2021-07-17 12:09:58.907 [http-nio-8080-exec-6] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 12:09:59.428 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:10:04.432 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:10:09.439 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:10:14.435 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:10:19.427 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:10:24.436 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:10:29.427 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:10:30.692 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym wiki
+2021-07-17 12:10:30.692 [http-nio-8080-exec-4] INFO  cn.truncle.yumubot.service.MessageService - ***********WIKI
+2021-07-17 12:10:30.693 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - Index 2 out of bounds for length 2
+2021-07-17 12:10:30.693 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:10:30.693 [http-nio-8080-exec-4] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 12:10:34.439 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:10:39.437 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:10:44.432 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:10:49.434 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:10:54.122 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2477412379, message = 你群真的是啥都有
+2021-07-17 12:10:54.122 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:10:54.428 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:10:59.438 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:11:04.060 [main] INFO  cn.truncle.yumubot.YumubotApplication - Starting YumubotApplication using Java 12.0.2 on DESKTOP-1NBRITB with PID 11348 (A:\java\Yumubot\target\classes started by Administrator in A:\java\Yumubot)
+2021-07-17 12:11:04.062 [main] DEBUG cn.truncle.yumubot.YumubotApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:11:04.063 [main] INFO  cn.truncle.yumubot.YumubotApplication - No active profile set, falling back to default profiles: default
+2021-07-17 12:11:04.888 [main] INFO  cn.truncle.yumubot.YumubotApplication - Started YumubotApplication in 1.069 seconds (JVM running for 1.934)
+2021-07-17 12:11:05.026 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:11:05.912 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym wiki ACC
+2021-07-17 12:11:05.912 [http-nio-8080-exec-2] INFO  cn.truncle.yumubot.service.MessageService - ***********WIKI
+2021-07-17 12:11:05.913 [http-nio-8080-exec-2] INFO  cn.truncle.yumubot.service.MessageService - false
+2021-07-17 12:11:05.932 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:11:05.932 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:11:05.932 [http-nio-8080-exec-2] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 12:11:08.754 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym wiki
+2021-07-17 12:11:08.754 [http-nio-8080-exec-3] INFO  cn.truncle.yumubot.service.MessageService - ***********WIKI
+2021-07-17 12:11:08.754 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - Index 2 out of bounds for length 2
+2021-07-17 12:11:08.754 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:11:08.754 [http-nio-8080-exec-3] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 12:11:09.439 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:11:14.440 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:11:15.621 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3010048425, message = !bpme #100
+2021-07-17 12:11:15.621 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:11:15.785 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2477412379, message = 有[CQ:image,file=4bcda4cfc7bc7ed42ed5e3c42f8820e3.image]
+2021-07-17 12:11:15.785 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:11:19.441 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:11:22.340 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1020640876, message = [CQ:image,file=d4f6b886701020b36463f37150e0fe42.image]
+2021-07-17 12:11:22.340 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:11:24.437 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:11:26.075 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2477412379, message = [CQ:image,file=2425a7dcbae5c2175e4605e6588ed255.image]
+2021-07-17 12:11:26.075 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:11:29.429 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:11:34.435 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:11:39.431 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:11:44.433 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:11:49.427 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:11:50.003 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2477412379, message = [CQ:image,file=5f1afaeddac2dee357c34bff19f51205.image][CQ:image,file=c9bd37e8067778b925f91301a2084e95.image][CQ:image,file=ab422bb69d80d21c690f11344603ddcb.image]
+2021-07-17 12:11:50.003 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:11:54.427 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:11:59.440 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:12:04.434 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:12:09.435 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:12:14.428 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:12:19.437 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:12:23.632 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1183896575, message = 没有我的
+2021-07-17 12:12:23.632 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:12:24.436 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:12:25.842 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1183896575, message = 🤗🤗🤗
+2021-07-17 12:12:25.842 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:12:28.057 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1183896575, message = 好耶
+2021-07-17 12:12:28.058 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:12:29.439 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:12:34.436 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:12:38.303 [main] INFO  cn.truncle.yumubot.YumubotApplication - Starting YumubotApplication using Java 12.0.2 on DESKTOP-1NBRITB with PID 5028 (A:\java\Yumubot\target\classes started by Administrator in A:\java\Yumubot)
+2021-07-17 12:12:38.304 [main] DEBUG cn.truncle.yumubot.YumubotApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:12:38.304 [main] INFO  cn.truncle.yumubot.YumubotApplication - No active profile set, falling back to default profiles: default
+2021-07-17 12:12:39.129 [main] INFO  cn.truncle.yumubot.YumubotApplication - Started YumubotApplication in 1.066 seconds (JVM running for 1.954)
+2021-07-17 12:12:39.511 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:12:41.288 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 2175308295, message = [CQ:image,file=1d9f9ba4d7aae472754c02d8a77f2431.image]
+2021-07-17 12:12:41.288 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:12:44.436 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:12:46.327 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym wiki
+2021-07-17 12:12:46.328 [http-nio-8080-exec-4] INFO  cn.truncle.yumubot.service.MessageService - ***********WIKI
+2021-07-17 12:12:46.329 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:12:46.329 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:12:46.329 [http-nio-8080-exec-4] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 12:12:49.434 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:12:54.427 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:12:59.439 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:13:04.430 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:13:09.435 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:13:14.437 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:13:19.435 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:13:24.428 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:13:30.593 [main] INFO  cn.truncle.yumubot.YumubotApplication - Starting YumubotApplication using Java 12.0.2 on DESKTOP-1NBRITB with PID 9808 (A:\java\Yumubot\target\classes started by Administrator in A:\java\Yumubot)
+2021-07-17 12:13:30.595 [main] DEBUG cn.truncle.yumubot.YumubotApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:13:30.595 [main] INFO  cn.truncle.yumubot.YumubotApplication - No active profile set, falling back to default profiles: default
+2021-07-17 12:13:31.426 [main] INFO  cn.truncle.yumubot.YumubotApplication - Started YumubotApplication in 1.077 seconds (JVM running for 1.946)
+2021-07-17 12:13:31.548 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:13:34.442 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:13:39.429 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:13:39.755 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym wiki
+2021-07-17 12:13:39.755 [http-nio-8080-exec-4] INFO  cn.truncle.yumubot.service.MessageService - ***********WIKI
+2021-07-17 12:13:39.755 [http-nio-8080-exec-4] INFO  cn.truncle.yumubot.service.MessageService - ***********null
+2021-07-17 12:13:39.756 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:13:39.756 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:13:39.756 [http-nio-8080-exec-4] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 12:13:44.441 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:13:49.439 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:13:54.431 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:13:59.426 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:14:01.279 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 3198521329, message = !info
+2021-07-17 12:14:01.279 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:14:04.434 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:14:08.026 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 834276213, message = [CQ:image,file=9105c497a879f19689fbca9e6937ec18.image]
+2021-07-17 12:14:08.026 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:14:09.435 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:14:11.828 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1207794441, message = 登子赔我空调费
+2021-07-17 12:14:11.828 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:14:12.129 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1207794441, message = [CQ:json,data={"app":"com.tencent.miniapp_01"&#44;"config":{"autoSize":0&#44;"ctime":1626495248&#44;"forward":1&#44;"height":0&#44;"token":"c44f406ed67d2420b26388b89c430b59"&#44;"type":"normal"&#44;"width":0}&#44;"desc":"哔哩哔哩"&#44;"extra":{"app_type":1&#44;"appid":100951776&#44;"uin":1207794441}&#44;"meta":{"detail_1":{"appid":"1109937557"&#44;"desc":"全球极端天气频现，警惕美国气象武器，对台海峡和地球环境的破坏"&#44;"gamePoints":""&#44;"gamePointsUrl":""&#44;"host":{"nick":"βios"&#44;"uin":1207794441}&#44;"icon":"https://open.gtimg.cn/open/app_icon/00/95/17/76/100951776_100_m.png?t=1626330126"&#44;"preview":"pubminishare-30161.picsz.qpic.cn/3e1bd8f8-eb9c-4de0-b126-cc396fdca917"&#44;"qqdocurl":"https://b23.tv/JyrODu?share_medium=android&amp;share_source=qq&amp;bbid=XY06C9D09B672C99468FA463F82CA8A93C289&amp;ts=1626495234726"&#44;"scene":1036&#44;"shareTemplateData":{}&#44;"shareTemplateId":"8C8E89B49BE609866298ADDFF2DBABA4"&#44;"showLittleTail":""&#44;"title":"哔哩哔哩"&#44;"url":"m.q.qq.com/a/s/f35926c9ae19b168a0d638fb910b505e"}}&#44;"needShareCallBack":false&#44;"prompt":"&#91;QQ小程序&#93;哔哩哔哩"&#44;"ver":"1.0.0.19"&#44;"view":"view_8C8E89B49BE609866298ADDFF2DBABA4"}]
+2021-07-17 12:14:12.129 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:14:12.388 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym wiki ACC
+2021-07-17 12:14:12.388 [http-nio-8080-exec-5] INFO  cn.truncle.yumubot.service.MessageService - ***********WIKI
+2021-07-17 12:14:12.388 [http-nio-8080-exec-5] INFO  cn.truncle.yumubot.service.MessageService - ***********ACC
+2021-07-17 12:14:12.408 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:14:12.408 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:14:12.409 [http-nio-8080-exec-5] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 12:14:14.429 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:14:21.144 [main] INFO  cn.truncle.yumubot.YumubotApplication - Starting YumubotApplication using Java 12.0.2 on DESKTOP-1NBRITB with PID 6376 (A:\java\Yumubot\target\classes started by Administrator in A:\java\Yumubot)
+2021-07-17 12:14:21.145 [main] DEBUG cn.truncle.yumubot.YumubotApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:14:21.146 [main] INFO  cn.truncle.yumubot.YumubotApplication - No active profile set, falling back to default profiles: default
+2021-07-17 12:14:21.974 [main] INFO  cn.truncle.yumubot.YumubotApplication - Started YumubotApplication in 1.072 seconds (JVM running for 1.944)
+2021-07-17 12:14:23.865 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym wiki
+2021-07-17 12:14:23.866 [http-nio-8080-exec-1] INFO  cn.truncle.yumubot.service.MessageService - ***********WIKI
+2021-07-17 12:14:23.866 [http-nio-8080-exec-1] INFO  cn.truncle.yumubot.service.MessageService - ***********
+2021-07-17 12:14:23.885 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:14:23.886 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:14:23.886 [http-nio-8080-exec-1] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 12:14:24.434 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:14:29.430 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:14:30.483 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1968035918, message = [CQ:reply,id=1424788081,seq=1524,qq=365246692,time=1626494756,text=@时雨终尽 啊你这边分发有个小问题，正则匹配从1开始][CQ:at,qq=365246692]  什么情况
+2021-07-17 12:14:30.483 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:14:32.251 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1207794441, message = 我就说最近怎么这么热👿
+2021-07-17 12:14:32.251 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:14:34.430 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:14:35.065 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = !ym wiki
+2021-07-17 12:14:35.277 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - null
+2021-07-17 12:14:35.277 [http-nio-8080-exec-7] ERROR cn.truncle.yumubot.service.CQService - ?
+2021-07-17 12:14:39.429 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:14:44.426 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:14:49.427 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:14:54.432 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:14:59.428 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:15:04.435 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:15:08.087 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = [CQ:reply,id=-1543906788,seq=1536,qq=1968035918,time=1626495267,text=@col 什么情况] 不对，你不是用字符串切分指令吗，0位是空着的
+2021-07-17 12:15:08.087 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:15:08.527 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1183896575, message = 🥵🥵🥵
+2021-07-17 12:15:08.528 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:15:09.428 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:15:11.557 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = 不知道为啥
+2021-07-17 12:15:11.558 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:15:14.435 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:15:19.439 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:15:24.426 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:15:28.114 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = [CQ:image,file=3107117d64180537f63f5752d6a33941.image]
+2021-07-17 12:15:28.114 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:15:29.438 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:15:34.437 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:15:36.011 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1183896575, message = 警惕
+2021-07-17 12:15:36.011 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:15:38.654 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1183896575, message = 打
+2021-07-17 12:15:38.654 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:15:39.428 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:15:44.431 [http-nio-8080-exec-7] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:15:46.352 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1183896575, message = 红警牌
+2021-07-17 12:15:46.352 [http-nio-8080-exec-8] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:15:49.434 [http-nio-8080-exec-9] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:15:50.955 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 1183896575, message = 😥
+2021-07-17 12:15:50.956 [http-nio-8080-exec-10] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:15:54.427 [http-nio-8080-exec-1] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:15:56.699 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = 另外我想用正则去解析指令
+2021-07-17 12:15:56.699 [http-nio-8080-exec-2] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:15:59.438 [http-nio-8080-exec-3] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:16:04.434 [http-nio-8080-exec-4] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:16:07.475 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - getMessage: userId = 365246692, message = 字符串切分不太好
+2021-07-17 12:16:07.475 [http-nio-8080-exec-5] DEBUG cn.truncle.yumubot.service.MessageService - not instruction
+2021-07-17 12:16:09.437 [http-nio-8080-exec-6] DEBUG cn.truncle.yumubot.controller.EventController - Heartbeat
+2021-07-17 12:45:54.014 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 6784 (started by Administrator in A:\java\Yumubot)
+2021-07-17 12:45:54.017 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:45:54.019 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 12:45:55.294 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.59 seconds (JVM running for 2.47)
+2021-07-17 12:45:55.648 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 游玩相关
+-PP
+-ACC
+-评级
+谱面相关
+-谱面
+-AR
+
+2021-07-17 12:45:55.648 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - ACC (Accuracy)，称为准确率。
+2021-07-17 12:47:11.397 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 10592 (started by Administrator in A:\java\Yumubot)
+2021-07-17 12:47:11.400 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:47:11.401 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 12:47:12.635 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.509 seconds (JVM running for 2.408)
+2021-07-17 12:47:42.952 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 11044 (started by Administrator in A:\java\Yumubot)
+2021-07-17 12:47:42.956 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:47:42.958 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 12:47:44.239 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.556 seconds (JVM running for 2.426)
+2021-07-17 12:47:49.767 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 1432 (started by Administrator in A:\java\Yumubot)
+2021-07-17 12:47:49.770 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:47:49.772 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 12:47:51.001 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.504 seconds (JVM running for 2.453)
+2021-07-17 12:48:16.563 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 10332 (started by Administrator in A:\java\Yumubot)
+2021-07-17 12:48:16.566 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:48:16.567 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 12:48:17.782 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.507 seconds (JVM running for 2.455)
+2021-07-17 12:48:18.122 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 
+2021-07-17 12:48:18.122 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss dgfdgdfg sdfsdgsdfgs
+2021-07-17 12:48:34.176 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 8960 (started by Administrator in A:\java\Yumubot)
+2021-07-17 12:48:34.179 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:48:34.181 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 12:48:35.437 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.547 seconds (JVM running for 2.422)
+2021-07-17 12:48:35.777 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 
+2021-07-17 12:48:35.777 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss dgfdgdfg sdfsdgsdfgs
+2021-07-17 12:49:31.417 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 14388 (started by Administrator in A:\java\Yumubot)
+2021-07-17 12:49:31.420 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:49:31.422 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 12:49:32.629 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.483 seconds (JVM running for 2.355)
+2021-07-17 12:49:32.964 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 
+2021-07-17 12:49:32.964 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss
+2021-07-17 12:50:12.683 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 14480 (started by Administrator in A:\java\Yumubot)
+2021-07-17 12:50:12.685 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:50:12.687 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 12:50:13.894 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.484 seconds (JVM running for 2.37)
+2021-07-17 12:50:14.236 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 
+2021-07-17 12:50:14.237 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss
+2021-07-17 12:51:40.691 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 8980 (started by Administrator in A:\java\Yumubot)
+2021-07-17 12:51:40.693 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:51:40.695 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 12:51:41.929 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.509 seconds (JVM running for 2.411)
+2021-07-17 12:51:42.269 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 
+2021-07-17 12:51:42.270 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 
+2021-07-17 12:52:10.112 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 5464 (started by Administrator in A:\java\Yumubot)
+2021-07-17 12:52:10.115 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:52:10.117 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 12:52:11.370 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.542 seconds (JVM running for 2.429)
+2021-07-17 12:52:11.711 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 
+2021-07-17 12:52:11.711 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 
+2021-07-17 12:52:25.003 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 7868 (started by Administrator in A:\java\Yumubot)
+2021-07-17 12:52:25.007 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:52:25.009 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 12:52:26.248 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.506 seconds (JVM running for 2.379)
+2021-07-17 12:52:26.617 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 
+2021-07-17 12:52:26.617 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss
+2021-07-17 12:53:09.465 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 12848 (started by Administrator in A:\java\Yumubot)
+2021-07-17 12:53:09.467 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:53:09.469 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 12:53:10.726 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.528 seconds (JVM running for 2.393)
+2021-07-17 12:53:11.093 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 
+2021-07-17 12:53:11.093 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 
+2021-07-17 12:55:41.217 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 12012 (started by Administrator in A:\java\Yumubot)
+2021-07-17 12:55:41.220 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:55:41.222 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 12:55:42.473 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.547 seconds (JVM running for 2.422)
+2021-07-17 12:55:42.827 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss
+2021-07-17 12:55:42.827 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 
+2021-07-17 12:55:56.286 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 7052 (started by Administrator in A:\java\Yumubot)
+2021-07-17 12:55:56.289 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:55:56.290 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 12:55:57.512 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.494 seconds (JVM running for 2.36)
+2021-07-17 12:55:57.855 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss
+2021-07-17 12:55:57.855 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 
+2021-07-17 12:56:14.919 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 14988 (started by Administrator in A:\java\Yumubot)
+2021-07-17 12:56:14.922 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:56:14.924 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 12:56:16.172 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.518 seconds (JVM running for 2.392)
+2021-07-17 12:56:16.513 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss
+2021-07-17 12:56:16.514 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - dgfdgdfg
+2021-07-17 12:56:38.538 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 8956 (started by Administrator in A:\java\Yumubot)
+2021-07-17 12:56:38.541 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:56:38.542 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 12:56:39.764 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.486 seconds (JVM running for 2.384)
+2021-07-17 12:56:40.120 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss
+2021-07-17 12:56:40.120 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - dgfdgdfg sdfsdgsdfgs
+2021-07-17 12:56:59.129 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 704 (started by Administrator in A:\java\Yumubot)
+2021-07-17 12:56:59.133 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:56:59.135 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 12:57:00.358 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.499 seconds (JVM running for 2.388)
+2021-07-17 12:57:00.710 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss
+2021-07-17 12:57:00.710 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - dgfdgdfg sdfsdgsdfgs
+2021-07-17 12:57:29.863 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 11052 (started by Administrator in A:\java\Yumubot)
+2021-07-17 12:57:29.865 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:57:29.867 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 12:57:31.109 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.509 seconds (JVM running for 2.388)
+2021-07-17 12:57:44.081 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 14848 (started by Administrator in A:\java\Yumubot)
+2021-07-17 12:57:44.084 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:57:44.086 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 12:57:45.335 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.523 seconds (JVM running for 2.435)
+2021-07-17 12:58:58.216 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 15172 (started by Administrator in A:\java\Yumubot)
+2021-07-17 12:58:58.219 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:58:58.221 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 12:58:59.429 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.495 seconds (JVM running for 2.365)
+2021-07-17 12:59:27.799 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 3272 (started by Administrator in A:\java\Yumubot)
+2021-07-17 12:59:27.802 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 12:59:27.803 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 12:59:29.071 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.526 seconds (JVM running for 2.407)
+2021-07-17 12:59:29.450 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss
+2021-07-17 12:59:29.450 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 
+2021-07-17 13:00:31.312 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 8168 (started by Administrator in A:\java\Yumubot)
+2021-07-17 13:00:31.314 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 13:00:31.315 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 13:00:32.533 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.486 seconds (JVM running for 2.382)
+2021-07-17 13:00:32.893 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests -   !ym  sss asfsdfsdfsdfgs
+2021-07-17 13:00:32.893 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss
+2021-07-17 13:00:32.893 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - asfsdfsdfsdfgs
+2021-07-17 13:00:48.280 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 2068 (started by Administrator in A:\java\Yumubot)
+2021-07-17 13:00:48.283 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 13:00:48.285 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-17 13:00:49.496 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.48 seconds (JVM running for 2.36)
+2021-07-17 13:00:49.852 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests -   !ym  sss asfsdf sdfsf dfgs
+2021-07-17 13:00:49.852 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss
+2021-07-17 13:00:49.852 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - asfsdf sdfsf dfgs

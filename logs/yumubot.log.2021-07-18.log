@@ -1,0 +1,74 @@
+2021-07-18 13:47:55.086 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 8488 (started by Administrator in A:\java\Yumubot)
+2021-07-18 13:47:55.088 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-18 13:47:55.089 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-18 13:47:56.382 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.566 seconds (JVM running for 2.56)
+2021-07-18 13:47:56.743 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests -   ！ym  sss asfsdf sdfsf dfgs
+2021-07-18 13:47:56.743 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - ym
+2021-07-18 13:47:56.745 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss asfsdf sdfsf dfgs
+2021-07-18 13:48:57.431 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 13568 (started by Administrator in A:\java\Yumubot)
+2021-07-18 13:48:57.433 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-18 13:48:57.435 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-18 13:48:58.723 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.568 seconds (JVM running for 2.472)
+2021-07-18 13:48:59.076 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests -   ！Ym  sss asfsdf sdfsf dfgs
+2021-07-18 13:48:59.076 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss
+2021-07-18 13:48:59.076 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - asfsdf sdfsf dfgs
+2021-07-18 13:49:06.263 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 12464 (started by Administrator in A:\java\Yumubot)
+2021-07-18 13:49:06.266 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-18 13:49:06.267 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-18 13:49:07.537 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.54 seconds (JVM running for 2.429)
+2021-07-18 13:49:07.903 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests -   ！ Ym  sss asfsdf sdfsf dfgs
+2021-07-18 13:49:07.904 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss
+2021-07-18 13:49:07.904 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - asfsdf sdfsf dfgs
+2021-07-18 13:55:02.388 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 13596 (started by Administrator in A:\java\Yumubot)
+2021-07-18 13:55:02.392 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-18 13:55:02.394 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-18 13:55:04.140 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 2.096 seconds (JVM running for 3.256)
+2021-07-18 13:55:04.552 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests -   ！ Ym  sss asfsdf sdfsf dfgs
+2021-07-18 13:55:04.553 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss
+2021-07-18 13:55:04.553 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - asfsdf sdfsf dfgs
+2021-07-18 13:57:56.077 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 9108 (started by Administrator in A:\java\Yumubot)
+2021-07-18 13:57:56.080 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-18 13:57:56.082 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-18 13:57:57.596 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.868 seconds (JVM running for 2.914)
+2021-07-18 13:58:07.243 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 14220 (started by Administrator in A:\java\Yumubot)
+2021-07-18 13:58:07.246 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-18 13:58:07.248 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-18 13:58:08.837 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.95 seconds (JVM running for 3.022)
+2021-07-18 13:58:09.248 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests -   ！ Ym  sss asfsdf sdfsf dfgs
+2021-07-18 13:58:09.249 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss
+2021-07-18 13:58:09.249 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - asfsdf sdfsf dfgs
+2021-07-18 13:58:24.891 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 13504 (started by Administrator in A:\java\Yumubot)
+2021-07-18 13:58:24.895 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-18 13:58:24.897 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-18 13:58:26.467 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.889 seconds (JVM running for 2.938)
+2021-07-18 13:58:26.831 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests -   ！ Ym  sss asfsdf sdfsf dfgs     
+2021-07-18 13:58:26.831 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss
+2021-07-18 13:58:26.831 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - asfsdf sdfsf dfgs     
+2021-07-18 14:00:10.617 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 7652 (started by Administrator in A:\java\Yumubot)
+2021-07-18 14:00:10.620 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-18 14:00:10.622 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-18 14:00:12.119 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.801 seconds (JVM running for 2.853)
+2021-07-18 14:00:12.509 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests -   ！ Ym  sss asfsdf sdfsf dfgs     
+2021-07-18 14:00:12.509 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss
+2021-07-18 14:00:12.510 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 
+2021-07-18 14:00:45.612 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 8608 (started by Administrator in A:\java\Yumubot)
+2021-07-18 14:00:45.615 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-18 14:00:45.616 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-18 14:00:46.897 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.555 seconds (JVM running for 2.485)
+2021-07-18 14:00:47.245 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests -   ！ Ym  sss asfsdf sdfsf dfgs     
+2021-07-18 14:00:47.245 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss
+2021-07-18 14:00:47.245 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - 
+2021-07-18 14:00:56.760 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 14048 (started by Administrator in A:\java\Yumubot)
+2021-07-18 14:00:56.764 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-18 14:00:56.766 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-18 14:00:58.088 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.606 seconds (JVM running for 2.535)
+2021-07-18 14:00:58.433 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests -   ！ Ym  sss asfsdf sdfsf dfgs     
+2021-07-18 14:00:58.433 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss
+2021-07-18 14:00:58.433 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - asfsdf
+2021-07-18 14:01:12.387 [main] INFO  cn.truncle.yumubot.WikiTests - Starting WikiTests using Java 12.0.2 on DESKTOP-1NBRITB with PID 2472 (started by Administrator in A:\java\Yumubot)
+2021-07-18 14:01:12.390 [main] DEBUG cn.truncle.yumubot.WikiTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-18 14:01:12.391 [main] INFO  cn.truncle.yumubot.WikiTests - No active profile set, falling back to default profiles: default
+2021-07-18 14:01:13.662 [main] INFO  cn.truncle.yumubot.WikiTests - Started WikiTests in 1.541 seconds (JVM running for 2.449)
+2021-07-18 14:01:13.999 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests -   ！ Ym  sss asfsdf sdfsf dfgs     
+2021-07-18 14:01:14.000 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - sss
+2021-07-18 14:01:14.000 [main] INFO  cn.truncle.yumubot.YumubotApplicationTests - asfsdf sdfsf dfgs     
