@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: cn.truncle.yumubot.CQServiceTests
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 6.947 s <<< FAILURE! - in cn.truncle.yumubot.CQServiceTests
+sendPrivateMsgTest  Time elapsed: 2.125 s  <<< ERROR!
+org.springframework.web.client.ResourceAccessException: I/O error on GET request for "Http://127.0.0.1:5700/send_private_msg": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+	at cn.truncle.yumubot.CQServiceTests.sendPrivateMsgTest(CQServiceTests.java:27)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at cn.truncle.yumubot.CQServiceTests.sendPrivateMsgTest(CQServiceTests.java:27)
+
+imgTest  Time elapsed: 2.022 s  <<< ERROR!
+org.springframework.web.client.ResourceAccessException: I/O error on GET request for "Http://127.0.0.1:5700/send_private_msg": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+	at cn.truncle.yumubot.CQServiceTests.imgTest(CQServiceTests.java:35)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at cn.truncle.yumubot.CQServiceTests.imgTest(CQServiceTests.java:35)
+

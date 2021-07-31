@@ -1,0 +1,11 @@
+cn\truncle\yumubot\service\CQService.class
+cn\truncle\yumubot\util\JsonUtil.class
+cn\truncle\yumubot\controller\EventController.class
+cn\truncle\yumubot\service\MessageService$1.class
+cn\truncle\yumubot\service\MessageService.class
+cn\truncle\yumubot\service\RequestService.class
+cn\truncle\yumubot\entity\CQObject.class
+cn\truncle\yumubot\service\OSUService.class
+cn\truncle\yumubot\YumubotApplication.class
+cn\truncle\yumubot\service\NoticeService.class
+cn\truncle\yumubot\util\Instruction.class

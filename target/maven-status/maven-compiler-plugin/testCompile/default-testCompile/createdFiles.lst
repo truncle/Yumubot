@@ -1,0 +1,5 @@
+cn\truncle\yumubot\CQServiceTests.class
+cn\truncle\yumubot\MessageServiceTests.class
+cn\truncle\yumubot\OSUServiceTests.class
+cn\truncle\yumubot\EventControllerTests.class
+cn\truncle\yumubot\YumubotApplicationTests.class

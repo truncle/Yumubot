@@ -1,0 +1,4 @@
+2021-07-17 10:11:32.153 [main] INFO  cn.truncle.yumubot.YumubotApplication - Starting YumubotApplication v0.0.1-SNAPSHOT using Java 12.0.2 on DESKTOP-1NBRITB with PID 15052 (A:\java\Yumubot\target\Yumubot-0.0.1-SNAPSHOT.jar started by Administrator in A:\java\Yumubot\target)
+2021-07-17 10:11:32.156 [main] DEBUG cn.truncle.yumubot.YumubotApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-07-17 10:11:32.157 [main] INFO  cn.truncle.yumubot.YumubotApplication - No active profile set, falling back to default profiles: default
+2021-07-17 10:11:33.934 [main] INFO  cn.truncle.yumubot.YumubotApplication - Started YumubotApplication in 2.191 seconds (JVM running for 2.753)
