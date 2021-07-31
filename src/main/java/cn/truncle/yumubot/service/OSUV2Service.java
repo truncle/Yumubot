@@ -9,9 +9,6 @@ import org.springframework.http.*;
 import org.springframework.stereotype.Service;
 import org.springframework.util.LinkedMultiValueMap;
 import org.springframework.util.MultiValueMap;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 import java.util.Collections;
@@ -51,7 +48,26 @@ public class OSUV2Service {
         bindingUtil.Write(binUser);
         return s;
     }
+    public JSONObject refreshToken(BinUser binUser){
+        String url = "https://osu.ppy.sh/oauth/token";
+        HttpHeaders headers = new HttpHeaders();
+        headers.setContentType(MediaType.APPLICATION_FORM_URLENCODED);
+        MultiValueMap body = new LinkedMultiValueMap();
+        body.add("client_id", oauthId);
+        body.add("client_secret",oauthToken);
+        body.add("refresh_token",binUser.getRefreshToken());
+        body.add("grant_type","refresh_token");
+        body.add("redirect_uri",redirectUrl);
 
+        HttpEntity<?> httpEntity = new HttpEntity<>(body, headers);
+        System.out.println(httpEntity.toString());
+        JSONObject s = template.postForObject(url, httpEntity, JSONObject.class);
+        binUser.setAccessToken(s.getString("access_token"));
+        binUser.setRefreshToken(s.getString("refresh_token"));
+        binUser.nextTime(s.getLong("expires_in"));
+        bindingUtil.Write(binUser);
+        return s;
+    }
     public JSONObject getUserInfo(BinUser user){
         String url = "https://osu.ppy.sh/api/v2/me/osu";
         HttpHeaders headers = new HttpHeaders();
