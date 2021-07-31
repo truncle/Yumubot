@@ -7,24 +7,26 @@ import org.springframework.lang.Nullable;
 import java.io.IOException;
 
 public class WikiUtil {
-    private JSONObject data;
-    public WikiUtil(){
+    private static JSONObject data;
+    static {
         ClassPathResource classPathResource = new ClassPathResource("wiki.json");
         try {
             byte[] databyte = classPathResource.getInputStream().readAllBytes();
-        data = (JSONObject) JSONObject.parse(databyte);
+            data = (JSONObject) JSONObject.parse(databyte);
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
-    public String getWiki(@Nullable String key){
-        key = key.trim().toUpperCase();
+    public static String getWiki(@Nullable String key){
+        if (key != null) {
+            key = key.trim().toUpperCase();
+        }
         if (key == null || key.equals("") || key.equals("INDEX")){
             StringBuffer sb = new StringBuffer();
             for(Object data1 : data.getJSONArray("INDEX")){
                 JSONObject c = (JSONObject) data1;
                 sb.append(c.keySet().iterator().next());
-                c.getJSONArray(c.keySet().iterator().next()).forEach(s -> sb.append("\n-"+s.toString()));
+                c.getJSONArray(c.keySet().iterator().next()).forEach(s -> sb.append("\n-").append(s.toString()));
                 sb.append('\n');
             }
             return sb.toString();
