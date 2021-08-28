@@ -16,6 +16,12 @@
     <properties>
         <java.version>11</java.version>
     </properties>
+    <repositories>
+        <repository>
+            <id>space-maven</id>
+            <url>https://packages.jetbrains.team/maven/p/skija/maven</url>
+        </repository>
+    </repositories>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -47,6 +53,12 @@
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
             <version>1.2.75</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.jetbrains.skija</groupId>
+            <artifactId>skija-linux</artifactId>
+            <version>0.92.20</version>
         </dependency>
     </dependencies>
 

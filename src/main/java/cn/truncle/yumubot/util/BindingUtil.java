@@ -4,60 +4,81 @@ import cn.truncle.yumubot.entity.BinUser;
 import com.alibaba.fastjson.JSONObject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Value;
-import org.springframework.scheduling.annotation.Async;
-import org.springframework.stereotype.Component;
 
-import java.io.*;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
 
-@Component
 public class BindingUtil {
-    private final Logger log = LoggerFactory.getLogger(BindingUtil.class);
+    private static final Logger log = LoggerFactory.getLogger(BindingUtil.class);
+    private static String OSU_ID_PATH;
+    private static String BIN_PATH;
 
+    public static void writeUser(BinUser user) throws Exception {
+        Path pt = Path.of(BIN_PATH + user.getQq() + ".json");
 
-
-    @Value("${yumubot.osu-v2.binddir}")
-    String dirPath;
-    @Async
-    public void Write(BinUser user) {
-        File x = new File(dirPath + user.getQq() + ".json");
-        try {
-            if (x.isFile()) {
-                FileWriter writer = new FileWriter(x);
-                writer.write(JSONObject.toJSONString(user));
-                writer.flush();
-                writer.close();
-            } else {
-                x.createNewFile();
-                FileWriter writer = new FileWriter(x);
-                writer.write(JSONObject.toJSONString(user));
-                writer.flush();
-                writer.close();
-
-            }
-        } catch (IOException e) {
-            log.error(String.valueOf(e));
+        if (!Files.isRegularFile(pt)) {
+            Files.createFile(pt);
         }
+        Files.writeString(pt, JSONObject.toJSONString(user));
+        System.gc();
     }
-    @Async
-    public BinUser getUser(long qq){
-        File x = new File(dirPath + qq + ".json");
+
+    public static BinUser readUser(long qq) throws Exception {
+        Path pt = Path.of(BIN_PATH + qq + ".json");
+        BinUser date = null;
+        if (Files.isRegularFile(pt)) {
+
+            String s = Files.readString(pt);
+            date = JSONObject.parseObject(s, BinUser.class);
+
+        }
+        System.gc();
+        if (date == null) throw new IOException("当前用户未绑定");
+        return date;
+    }
+
+    public static void writeOsuID(String name, int id) {
+        Path pt = Path.of(OSU_ID_PATH + name);
         try {
-            if (x.isFile()) {
-                FileReader reader = new FileReader(x);
-                BufferedReader bf=new BufferedReader(reader);
-                String line,str="";
-                while((line=bf.readLine())!=null){
-                    str=str+line;
+            if (!Files.isRegularFile(pt)) Files.createFile(pt);
+            Files.write(pt, new byte[]{
+                    (byte) ((id >> 24) & 0xFF),
+                    (byte) ((id >> 16) & 0xFF),
+                    (byte) ((id >> 8) & 0xFF),
+                    (byte) (id & 0xFF)
+            });
+        } catch (IOException e) {
+            log.error("osu id文件写入异常", e);
+        }
+        System.gc();
+    }
+
+    public static int readOsuID(String name) {
+        Path pt = Path.of(OSU_ID_PATH + name);
+        int id = 0;
+        try {
+            if (Files.isRegularFile(pt)) {
+                var b = Files.readAllBytes(pt);
+                switch (b.length) {
+                    case 4:
+                        id += (b[3] & 0xFF);
+                    case 3:
+                        id += ((b[2] & 0xFF) << 8);
+                    case 2:
+                        id += ((b[1] & 0xFF) << 16);
+                    case 1:
+                        id += ((b[0] & 0xFF) << 24);
+                        break;
+                    default:
+                        return 0;
                 }
-                return JSONObject.parseObject(str, BinUser.class);
-            } else {
-                throw new IOException("user not find");
             }
-        } catch (IOException e) {
-            log.error(String.valueOf(e));
-        }
-        return null;
-    }
 
+        } catch (IOException e) {
+            log.error("osu id文件读取异常", e);
+        }
+        System.gc();
+        return id;
+    }
 }

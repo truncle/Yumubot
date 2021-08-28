@@ -1,13 +1,8 @@
 yumubot:
   osu-peppy:
     baseurl: https://osu.ppy.sh/api/v2/
-  osu-v2:
-    callBackUrl: http://bind.osuoauth.365246692.xyz:20006/oauth
-    path: /oauth
-    id: 8721
-    token: A62B4EiTDYEXoPIfqyEVTzPda4ujDQ2FkuXMRGKQ
-    binddir: user.dir/Bind/
   go-cqhttp:
     #配置go-cqhttp地址
     address: 127.0.0.1:5700
     filePath: C:/
+
