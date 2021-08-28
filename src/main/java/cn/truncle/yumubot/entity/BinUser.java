@@ -1,5 +1,7 @@
 package cn.truncle.yumubot.entity;
 
+import cn.truncle.yumubot.service.OSUService;
+
 public class BinUser {
     //qq号
     long qq;
@@ -59,6 +61,11 @@ public class BinUser {
     public String getAccessToken() {
         return accessToken;
     }
+    public String getAccessToken(OSUService service) {
+        if(isPassed())
+            service.refreshToken(this);
+        return accessToken;
+    }
 
     public void setAccessToken(String accessToken) {
         this.accessToken = accessToken;
@@ -79,7 +86,7 @@ public class BinUser {
         time = System.currentTimeMillis() + addTime * 1000;
     }
 
-    public boolean canUsed(){
+    public boolean isPassed(){
         return System.currentTimeMillis() > time;
     }
 
@@ -95,4 +102,3 @@ public class BinUser {
                 '}';
     }
 }
-
