@@ -1,4 +1,4 @@
-package cn.truncle.yumubot.entity;
+package cn.truncle.yumubot.model;
 
 import cn.truncle.yumubot.service.OSUService;
 

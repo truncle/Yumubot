@@ -1,15 +1,19 @@
 package cn.truncle.yumubot.controller;
 
+import cn.truncle.yumubot.model.Event;
+import cn.truncle.yumubot.util.Instruction;
 import cn.truncle.yumubot.service.MessageService;
 import cn.truncle.yumubot.service.NoticeService;
 import cn.truncle.yumubot.service.RequestService;
-import com.alibaba.fastjson.JSONObject;
+import cn.truncle.yumubot.util.InsUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import java.util.Map;
+
+import java.lang.reflect.Method;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -32,14 +36,36 @@ public class EventController {
      * 把事件分发到对应的服务进行处理
      */
     @PostMapping("/event")
-    public Object responseEvent(@RequestBody JSONObject event){
-        switch(event.getString("post_type")){
-            case "message":
-                messageService.handleMessage(event); break;
-            case "notice":noticeService.handleEvent(event); break;
-            case "request":requestService.handleEvent(event); break;
-            default:
-                logger.debug("Heartbeat");
+    public Object responseEvent(@RequestBody Event event){
+        Class<?> clz;
+        Method method;
+        Instruction ins;
+        //TODO 返回response用于快速回复
+        try {
+            switch (event.getPostType()) {
+                case "message":
+                    clz = messageService.getClass();
+                    ins = Instruction.valueOf(InsUtil.getIns(event.getRawMessage()));
+                    method = clz.getMethod(ins.getMethod(), Event.class);
+                    method.invoke(messageService, event);
+                    break;
+                case "notice":
+                    clz = noticeService.getClass();
+                    ins = Instruction.valueOf(InsUtil.getIns(event.getRawMessage()));
+                    method = clz.getMethod(ins.getMethod(), Event.class);
+                    method.invoke(noticeService, event);
+                    break;
+                case "request":
+                    clz =requestService.getClass();
+                    ins = Instruction.valueOf(InsUtil.getIns(event.getRawMessage()));
+                    method = clz.getMethod(ins.getMethod(), Event.class);
+                    method.invoke(requestService, event);
+                    break;
+                default:
+                    logger.debug("Heartbeat");
+            }
+        }catch (Exception e){
+            logger.error("Something wrong");
         }
         return null;
     }

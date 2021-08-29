@@ -1,6 +1,6 @@
 package cn.truncle.yumubot.service;
 
-import cn.truncle.yumubot.entity.BinUser;
+import cn.truncle.yumubot.model.BinUser;
 import cn.truncle.yumubot.util.BindingUtil;
 import com.alibaba.fastjson.JSONArray;
 import org.slf4j.Logger;
@@ -9,7 +9,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.*;
 import org.springframework.scheduling.annotation.EnableScheduling;
-import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Service;
 import org.springframework.util.LinkedMultiValueMap;
 import org.springframework.util.MultiValueMap;
@@ -23,7 +22,6 @@ import java.net.HttpURLConnection;
 import java.net.URI;
 import java.net.URL;
 import java.util.Collections;
-import java.util.Map;
 
 import com.alibaba.fastjson.JSONObject;
 

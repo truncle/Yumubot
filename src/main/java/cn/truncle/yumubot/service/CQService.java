@@ -26,6 +26,8 @@ public class CQService {
     @Autowired
     RestTemplate restTemplate;
 
+    //TODO sendMessage改成建造者模式,只留一个方法
+
     /**
      * 发送私聊消息
      * @param userId QQ号
@@ -47,8 +49,7 @@ public class CQService {
                 .build();
         JSONObject rest = restTemplate.getForObject(uri.toUriString(), JSONObject.class);
         if(rest != null && rest.getString("status").equals("ok")) {
-            int messageId = rest.getJSONObject("data").getIntValue("message_id");
-            return messageId;
+            return rest.getJSONObject("data").getIntValue("message_id");
         }else {
             logger.error(rest.toJSONString());
             return 0;
@@ -78,8 +79,7 @@ public class CQService {
                 .build();
         JSONObject rest = restTemplate.getForObject(uri.toUriString(), JSONObject.class);
         if(rest != null && rest.getString("status").equals("ok")) {
-            int messageId = rest.getJSONObject("data").getIntValue("message_id");
-            return messageId;
+            return rest.getJSONObject("data").getIntValue("message_id");
         }else {
             logger.error(rest.toJSONString());
             return 0;
@@ -106,8 +106,7 @@ public class CQService {
                 .build();
         JSONObject rest = restTemplate.getForObject(uri.toUriString(), JSONObject.class);
         if(rest != null && rest.getString("status").equals("ok")) {
-            int messageId = rest.getJSONObject("data").getIntValue("message_id");
-            return messageId;
+            return rest.getJSONObject("data").getIntValue("message_id");
         }else {
             logger.error(rest.toJSONString());
             return 0;

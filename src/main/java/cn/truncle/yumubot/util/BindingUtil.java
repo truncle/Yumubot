@@ -1,6 +1,6 @@
 package cn.truncle.yumubot.util;
 
-import cn.truncle.yumubot.entity.BinUser;
+import cn.truncle.yumubot.model.BinUser;
 import com.alibaba.fastjson.JSONObject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

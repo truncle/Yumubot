@@ -6,3 +6,13 @@ yumubot:
     address: 127.0.0.1:5700
     filePath: C:/
 
+ppy:
+  id: 6267
+  #待填写
+  callBackUrl: todo
+  token: OtA6HV0OXdTht6vGo5rgkk1eWo03ZcctcYA6MaU9
+  url: https://osu.ppy.sh/api/v2/
+
+dir:
+  #这又是什么
+  rundir: C:/

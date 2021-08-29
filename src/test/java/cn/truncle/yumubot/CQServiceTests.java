@@ -1,6 +1,6 @@
 package cn.truncle.yumubot;
 
-import cn.truncle.yumubot.entity.CQObject;
+import cn.truncle.yumubot.model.CQObject;
 import cn.truncle.yumubot.service.CQService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

@@ -15,25 +15,4 @@ public class OSUServiceTests {
     @Autowired
     private OSUService osuService;
 
-    @Test
-    void getClientCredentialsTest(){
-        Assertions.assertDoesNotThrow(()->osuService.getClientCredentials());
-        Assertions.assertNotNull(osuService.getToken());
-        logger.debug("token = " + osuService.getToken());
-    }
-
-    @Test
-    void getUserTest(){
-        Assertions.assertNotNull(osuService.getUser("14218879"));
-    }
-
-    @Test
-    void getBeatMapTest(){
-        Assertions.assertNotNull(osuService.getBeatMap("2828902"));
-    }
-
-    @Test
-    void getUserBeatmapScoreTest(){
-        Assertions.assertNotNull(osuService.getUserBeatmapScore("1642274", "14218879"));
-    }
 }
