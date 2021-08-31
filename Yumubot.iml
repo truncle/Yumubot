@@ -89,5 +89,6 @@
     <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.75" level="project" />
     <orderEntry type="library" name="Maven: org.jetbrains.skija:skija-linux:0.92.20" level="project" />
     <orderEntry type="library" name="Maven: org.jetbrains.skija:skija-shared:0.92.20" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-configuration-processor:2.4.3" level="project" />
   </component>
 </module>

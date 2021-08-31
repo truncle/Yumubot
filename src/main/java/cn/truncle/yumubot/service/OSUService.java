@@ -29,7 +29,11 @@ import com.alibaba.fastjson.JSONObject;
 @Service
 public class  OSUService {
     private static final Logger logger = LoggerFactory.getLogger(OSUService.class);
+
+    //FIXME 不要手动管理依赖。
     public static BinUser botUser = new BinUser();
+
+    //FIXME 配置信息修改
     @Value("${ppy.id}")
     private int oauthId;
     @Value("${ppy.callBackUrl}")

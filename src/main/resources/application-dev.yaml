@@ -1,0 +1,12 @@
+yumubot:
+  config:
+    # 所有的自定义配置写到这里,在Config中转换成实体类使用
+    # TODO 重新填写所有配置
+    ppy:
+      appId: 6267
+      callbackUrl: todo
+      token: OtA6HV0OXdTht6vGo5rgkk1eWo03ZcctcYA6MaU9
+      baseUrl: https://osu.ppy.sh/api/v2/
+
+    dir:
+      rundir: C:/

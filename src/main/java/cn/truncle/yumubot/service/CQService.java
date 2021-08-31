@@ -14,6 +14,7 @@ import org.springframework.web.util.UriComponentsBuilder;
 import java.awt.image.BufferedImage;
 import java.io.*;
 
+//TODO 改成Mirai实现
 @Service
 public class CQService {
     private static final Logger logger = LoggerFactory.getLogger(CQService.class);
@@ -25,8 +26,6 @@ public class CQService {
     private String filePath;
     @Autowired
     RestTemplate restTemplate;
-
-    //TODO sendMessage改成建造者模式,只留一个方法
 
     /**
      * 发送私聊消息

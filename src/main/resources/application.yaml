@@ -1,23 +1,3 @@
-
-# TODO 规范一下配置文件格式
-# TODO 增加CONFIG类读取配置文件
-# TODO 拆分Spring配置和自定义配置
-
-yumubot:
-  osu-peppy:
-    baseurl: https://osu.ppy.sh/api/v2/
-  go-cqhttp:
-    #配置go-cqhttp地址
-    address: 127.0.0.1:5700
-    filePath: C:/
-
-ppy:
-  id: 6267
-  #待填写
-  callBackUrl: todo
-  token: OtA6HV0OXdTht6vGo5rgkk1eWo03ZcctcYA6MaU9
-  url: https://osu.ppy.sh/api/v2/
-
-dir:
-  #这又是什么
-  rundir: C:/
+spring:
+  profiles:
+    active: dev

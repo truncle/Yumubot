@@ -22,8 +22,6 @@ public class MessageService {
     private CQService cqService;
 
     public void getInfo(Event event){
-        //TODO 参数解析、校验。调用其它service完成指令对应功能
-        cqService.sendPrivateMsg(event.getUserId(), "你好");
     }
 
 }
